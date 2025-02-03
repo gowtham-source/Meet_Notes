@@ -14,13 +14,15 @@ from datetime import datetime
 from config import CHROME_PROFILE_PATH, RECORDING_DIR, TRANSCRIPTION_DIR
 import threading
 from selenium.common.exceptions import TimeoutException
-from PIL import ImageGrab  # Add this import
+from PIL import ImageGrab  
 from urllib3 import PoolManager
 from urllib3.util import Retry
 from selenium.webdriver.common.action_chains import ActionChains
 import socket
 import random
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.utils import ChromeType
 
 # Set up logging
 logging.basicConfig(
@@ -71,13 +73,17 @@ class MeetingRecorder:
             options.add_argument("--start-maximized")
             options.add_argument("--no-default-browser-check")
             options.add_argument("--log-level=3")
-            options.add_argument("--remote-debugging-port=9515")
-            options.add_argument("--no-sandbox")
             options.binary_location = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
+            
+            # Use webdriver manager to get the appropriate chromedriver for version 114
+            driver_path = ChromeDriverManager(
+                version="114.0.5735.90",
+                chrome_type=ChromeType.CHROMIUM
+            ).install()
             
             self.driver = uc.Chrome(
                 options=options,
-                driver_executable_path=r'C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe',
+                driver_executable_path=driver_path,
                 headless=False
             )
             
@@ -842,4 +848,3 @@ class MeetingRecorder:
         """Cleanup resources"""
         if hasattr(self, 'driver'):
             self.driver.quit() 
-

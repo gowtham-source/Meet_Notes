@@ -2710,3 +2710,53 @@ Backtrace:
 	RtlInitializeExceptionChain [0x774CCDEB+107]
 	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
 
+2025-02-03 12:53:40,998 - INFO - Starting Meet Notes Manager...
+2025-02-03 12:53:41,000 - INFO - Initializing MeetingManager...
+2025-02-03 12:53:41,081 - INFO - Loaded existing credentials from token file
+2025-02-03 12:53:41,081 - INFO - Refreshing expired credentials
+2025-02-03 12:53:41,251 - INFO - Saved new credentials to token file
+2025-02-03 12:53:41,257 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 12:53:41,261 - INFO - Successfully initialized Calendar service
+2025-02-03 12:53:41,261 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 12:53:41,262 - INFO - Setting up Chrome browser...
+2025-02-03 12:53:41,279 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 12:56:04,902 - INFO - Starting Meet Notes Manager...
+2025-02-03 12:56:04,902 - INFO - Initializing MeetingManager...
+2025-02-03 12:56:04,930 - INFO - Loaded existing credentials from token file
+2025-02-03 12:56:04,932 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 12:56:04,934 - INFO - Successfully initialized Calendar service
+2025-02-03 12:56:04,934 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 12:56:04,934 - INFO - Setting up Chrome browser...
+2025-02-03 12:56:04,934 - INFO - ====== WebDriver manager ======
+2025-02-03 12:56:05,237 - INFO - There is no [win32] chromedriver "114.0.5735.90" for browser chromium "119.0.6045" in cache
+2025-02-03 12:56:05,237 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-02-03 12:56:05,715 - INFO - Driver has been saved in cache [C:\Users\gowth\.wdm\drivers\chromedriver\win32\114.0.5735.90]
+2025-02-03 12:56:05,728 - INFO - patching driver executable C:\Users\gowth\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2025-02-03 12:57:18,376 - ERROR - Error initializing undetected-chromedriver: Message: unknown error: cannot connect to chrome at 127.0.0.1:50175
+from chrome not reachable
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C5A813+48355]
+	(No symbol) [0x00BEC4B1]
+	(No symbol) [0x00AF5220]
+	(No symbol) [0x00AEB355]
+	(No symbol) [0x00B15C68]
+	(No symbol) [0x00B106B4]
+	(No symbol) [0x00B10491]
+	(No symbol) [0x00B40C55]
+	(No symbol) [0x00B4093C]
+	(No symbol) [0x00B3A536]
+	(No symbol) [0x00B182DC]
+	(No symbol) [0x00B193DD]
+	GetHandleVerifier [0x00EBAABD+2539405]
+	GetHandleVerifier [0x00EFA78F+2800735]
+	GetHandleVerifier [0x00EF456C+2775612]
+	GetHandleVerifier [0x00CE51E0+616112]
+	(No symbol) [0x00BF5F8C]
+	(No symbol) [0x00BF2328]
+	(No symbol) [0x00BF240B]
+	(No symbol) [0x00BE4FF7]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
