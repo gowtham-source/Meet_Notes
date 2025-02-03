@@ -1,0 +1,2712 @@
+2025-02-01 10:28:49,593 - INFO - Starting Meet Notes Manager...
+2025-02-01 10:28:49,593 - INFO - Initializing MeetingManager...
+2025-02-01 10:28:49,597 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 10:28:49,599 - INFO - Setting up Chrome browser...
+2025-02-01 10:28:49,599 - ERROR - Failed to initialize browser: 'MeetingRecorder' object has no attribute 'profile_path'
+2025-02-01 10:29:19,235 - INFO - Starting Meet Notes Manager...
+2025-02-01 10:29:19,235 - INFO - Initializing MeetingManager...
+2025-02-01 10:29:19,238 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 10:29:19,242 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 10:29:19,242 - INFO - Setting up Chrome browser...
+2025-02-01 10:29:19,242 - INFO - Initializing undetected-chromedriver...
+2025-02-01 10:29:20,061 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 10:29:21,107 - INFO - Verifying Google login status...
+2025-02-01 10:29:26,400 - WARNING - User not logged in to Google
+2025-02-01 10:29:26,401 - INFO - Checking for upcoming meetings...
+2025-02-01 10:29:27,031 - INFO - No upcoming meetings found
+2025-02-01 10:29:36,203 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 10:29:54,249 - INFO - Starting Meet Notes Manager...
+2025-02-01 10:29:54,249 - INFO - Initializing MeetingManager...
+2025-02-01 10:29:54,251 - INFO - Loaded existing credentials from token file
+2025-02-01 10:29:54,253 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 10:29:54,254 - INFO - Successfully initialized Calendar service
+2025-02-01 10:29:54,255 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 10:29:54,255 - INFO - Setting up Chrome browser...
+2025-02-01 10:29:54,255 - INFO - Initializing undetected-chromedriver...
+2025-02-01 10:29:55,199 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 10:29:56,536 - INFO - Verifying Google login status...
+2025-02-01 10:30:01,963 - WARNING - User not logged in to Google
+2025-02-01 10:30:01,964 - INFO - Checking for upcoming meetings...
+2025-02-01 10:30:01,964 - INFO - Fetching meetings between 2025-02-01 05:00:01.964101 and 2025-02-01 06:00:01.964101
+2025-02-01 10:30:02,602 - INFO - No upcoming meetings found
+2025-02-01 10:31:02,617 - INFO - Checking for upcoming meetings...
+2025-02-01 10:31:02,619 - INFO - Fetching meetings between 2025-02-01 05:01:02.617824 and 2025-02-01 06:01:02.617824
+2025-02-01 10:31:03,148 - INFO - No upcoming meetings found
+2025-02-01 10:31:31,043 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 10:31:37,444 - INFO - Starting Meet Notes Manager...
+2025-02-01 10:31:37,444 - INFO - Initializing MeetingManager...
+2025-02-01 10:31:37,446 - INFO - Loaded existing credentials from token file
+2025-02-01 10:31:37,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 10:31:37,449 - INFO - Successfully initialized Calendar service
+2025-02-01 10:31:37,450 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 10:31:37,450 - INFO - Setting up Chrome browser...
+2025-02-01 10:31:37,450 - INFO - Initializing undetected-chromedriver...
+2025-02-01 10:31:38,386 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 10:31:39,856 - INFO - Verifying Google login status...
+2025-02-01 10:31:47,498 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 10:31:47,507 - INFO - Google cookies found in profile
+2025-02-01 10:31:47,508 - INFO - Checking for upcoming meetings...
+2025-02-01 10:31:47,510 - INFO - Fetching meetings between 2025-02-01 05:01:47.510465 and 2025-02-01 06:01:47.510465
+2025-02-01 10:31:48,174 - INFO - No upcoming meetings found
+2025-02-01 10:32:48,189 - INFO - Checking for upcoming meetings...
+2025-02-01 10:32:48,191 - INFO - Fetching meetings between 2025-02-01 05:02:48.191516 and 2025-02-01 06:02:48.191516
+2025-02-01 10:32:48,794 - INFO - Found meeting: join meet at 2025-02-01T10:35:00+05:30
+2025-02-01 10:32:48,795 - INFO - Found 1 upcoming meetings
+2025-02-01 10:32:48,796 - INFO - Meeting: join meet
+2025-02-01 10:32:48,796 - INFO - Start time: 2025-02-01T10:35:00+05:30
+2025-02-01 10:32:48,796 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:32:48,797 - ERROR - Error in meeting manager: can't compare offset-naive and offset-aware datetimes
+2025-02-01 10:33:48,798 - INFO - Checking for upcoming meetings...
+2025-02-01 10:33:48,798 - INFO - Fetching meetings between 2025-02-01 05:03:48.798358 and 2025-02-01 06:03:48.798358
+2025-02-01 10:33:49,418 - INFO - Found meeting: join meet at 2025-02-01T10:35:00+05:30
+2025-02-01 10:33:49,418 - INFO - Found 1 upcoming meetings
+2025-02-01 10:33:49,419 - INFO - Meeting: join meet
+2025-02-01 10:33:49,419 - INFO - Start time: 2025-02-01T10:35:00+05:30
+2025-02-01 10:33:49,420 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:33:49,420 - ERROR - Error in meeting manager: can't compare offset-naive and offset-aware datetimes
+2025-02-01 10:34:49,429 - INFO - Checking for upcoming meetings...
+2025-02-01 10:34:49,430 - INFO - Fetching meetings between 2025-02-01 05:04:49.430591 and 2025-02-01 06:04:49.430591
+2025-02-01 10:34:50,002 - INFO - Found meeting: join meet at 2025-02-01T10:35:00+05:30
+2025-02-01 10:34:50,003 - INFO - Found 1 upcoming meetings
+2025-02-01 10:34:50,003 - INFO - Meeting: join meet
+2025-02-01 10:34:50,003 - INFO - Start time: 2025-02-01T10:35:00+05:30
+2025-02-01 10:34:50,003 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:34:50,005 - ERROR - Error in meeting manager: can't compare offset-naive and offset-aware datetimes
+2025-02-01 10:35:12,965 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 10:35:45,715 - INFO - Starting Meet Notes Manager...
+2025-02-01 10:35:45,715 - INFO - Initializing MeetingManager...
+2025-02-01 10:35:45,742 - INFO - Loaded existing credentials from token file
+2025-02-01 10:35:45,747 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 10:35:45,749 - INFO - Successfully initialized Calendar service
+2025-02-01 10:35:45,749 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 10:35:45,749 - INFO - Setting up Chrome browser...
+2025-02-01 10:35:45,750 - INFO - Initializing undetected-chromedriver...
+2025-02-01 10:35:47,396 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 10:35:48,706 - INFO - Verifying Google login status...
+2025-02-01 10:35:53,814 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 10:35:53,835 - INFO - Google cookies found in profile
+2025-02-01 10:35:53,836 - INFO - Checking for upcoming meetings...
+2025-02-01 10:35:53,836 - INFO - Fetching meetings between 2025-02-01 05:05:53.836749+00:00 and 2025-02-01 06:05:53.836749+00:00
+2025-02-01 10:35:54,551 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:35:54,552 - INFO - Found 1 upcoming meetings
+2025-02-01 10:35:54,553 - INFO - Meeting: join meet
+2025-02-01 10:35:54,553 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:35:54,554 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:35:54,554 - INFO - Current time (UTC): 2025-02-01 05:05:54.554313+00:00
+2025-02-01 10:35:54,554 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:35:54,554 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:35:54,554 - INFO - Time to join meeting: join meet
+2025-02-01 10:35:54,555 - INFO - Attempting to join meeting: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:35:58,552 - INFO - Waiting for 'Join now' button...
+2025-02-01 10:36:04,894 - INFO - No permission dialog found
+2025-02-01 10:36:07,035 - INFO - Successfully clicked 'Join now' button
+2025-02-01 10:36:07,036 - INFO - Successfully joined meeting: join meet
+2025-02-01 10:36:07,037 - INFO - Started recording thread
+2025-02-01 10:37:07,046 - INFO - Checking for upcoming meetings...
+2025-02-01 10:37:07,047 - INFO - Fetching meetings between 2025-02-01 05:07:07.047720+00:00 and 2025-02-01 06:07:07.047720+00:00
+2025-02-01 10:37:07,615 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:37:07,616 - INFO - Found 1 upcoming meetings
+2025-02-01 10:37:07,616 - INFO - Meeting: join meet
+2025-02-01 10:37:07,617 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:37:07,617 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:37:07,617 - INFO - Current time (UTC): 2025-02-01 05:07:07.617717+00:00
+2025-02-01 10:37:07,617 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:37:07,617 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:38:07,622 - INFO - Checking for upcoming meetings...
+2025-02-01 10:38:07,622 - INFO - Fetching meetings between 2025-02-01 05:08:07.622974+00:00 and 2025-02-01 06:08:07.622974+00:00
+2025-02-01 10:38:08,233 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:38:08,233 - INFO - Found 1 upcoming meetings
+2025-02-01 10:38:08,234 - INFO - Meeting: join meet
+2025-02-01 10:38:08,234 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:38:08,234 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:38:08,234 - INFO - Current time (UTC): 2025-02-01 05:08:08.234936+00:00
+2025-02-01 10:38:08,234 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:38:08,234 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:39:08,241 - INFO - Checking for upcoming meetings...
+2025-02-01 10:39:08,243 - INFO - Fetching meetings between 2025-02-01 05:09:08.243238+00:00 and 2025-02-01 06:09:08.243238+00:00
+2025-02-01 10:39:08,796 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:39:08,796 - INFO - Found 1 upcoming meetings
+2025-02-01 10:39:08,796 - INFO - Meeting: join meet
+2025-02-01 10:39:08,796 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:39:08,796 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:39:08,796 - INFO - Current time (UTC): 2025-02-01 05:09:08.796383+00:00
+2025-02-01 10:39:08,797 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:39:08,797 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:40:08,797 - INFO - Checking for upcoming meetings...
+2025-02-01 10:40:08,797 - INFO - Fetching meetings between 2025-02-01 05:10:08.797980+00:00 and 2025-02-01 06:10:08.797980+00:00
+2025-02-01 10:40:09,416 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:40:09,417 - INFO - Found 1 upcoming meetings
+2025-02-01 10:40:09,417 - INFO - Meeting: join meet
+2025-02-01 10:40:09,418 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:40:09,418 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:40:09,419 - INFO - Current time (UTC): 2025-02-01 05:10:09.419571+00:00
+2025-02-01 10:40:09,419 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:40:09,419 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:41:09,430 - INFO - Checking for upcoming meetings...
+2025-02-01 10:41:09,432 - INFO - Fetching meetings between 2025-02-01 05:11:09.432401+00:00 and 2025-02-01 06:11:09.432401+00:00
+2025-02-01 10:41:10,025 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:41:10,026 - INFO - Found 1 upcoming meetings
+2025-02-01 10:41:10,026 - INFO - Meeting: join meet
+2025-02-01 10:41:10,027 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:41:10,028 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:41:10,029 - INFO - Current time (UTC): 2025-02-01 05:11:10.028864+00:00
+2025-02-01 10:41:10,029 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:41:10,029 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:42:10,034 - INFO - Checking for upcoming meetings...
+2025-02-01 10:42:10,035 - INFO - Fetching meetings between 2025-02-01 05:12:10.035246+00:00 and 2025-02-01 06:12:10.035246+00:00
+2025-02-01 10:42:10,669 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:42:10,670 - INFO - Found 1 upcoming meetings
+2025-02-01 10:42:10,670 - INFO - Meeting: join meet
+2025-02-01 10:42:10,671 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:42:10,671 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:42:10,672 - INFO - Current time (UTC): 2025-02-01 05:12:10.672086+00:00
+2025-02-01 10:42:10,672 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:42:10,672 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:43:10,686 - INFO - Checking for upcoming meetings...
+2025-02-01 10:43:10,687 - INFO - Fetching meetings between 2025-02-01 05:13:10.687468+00:00 and 2025-02-01 06:13:10.687468+00:00
+2025-02-01 10:43:11,288 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:43:11,289 - INFO - Found 1 upcoming meetings
+2025-02-01 10:43:11,289 - INFO - Meeting: join meet
+2025-02-01 10:43:11,289 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:43:11,290 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:43:11,290 - INFO - Current time (UTC): 2025-02-01 05:13:11.290796+00:00
+2025-02-01 10:43:11,290 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:43:11,290 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:44:11,298 - INFO - Checking for upcoming meetings...
+2025-02-01 10:44:11,299 - INFO - Fetching meetings between 2025-02-01 05:14:11.299798+00:00 and 2025-02-01 06:14:11.299798+00:00
+2025-02-01 10:44:11,911 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:44:11,912 - INFO - Found 1 upcoming meetings
+2025-02-01 10:44:11,912 - INFO - Meeting: join meet
+2025-02-01 10:44:11,913 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:44:11,913 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:44:11,914 - INFO - Current time (UTC): 2025-02-01 05:14:11.914307+00:00
+2025-02-01 10:44:11,914 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:44:11,915 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:45:11,919 - INFO - Checking for upcoming meetings...
+2025-02-01 10:45:11,926 - INFO - Fetching meetings between 2025-02-01 05:15:11.926119+00:00 and 2025-02-01 06:15:11.926119+00:00
+2025-02-01 10:45:12,535 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:45:12,535 - INFO - Found 1 upcoming meetings
+2025-02-01 10:45:12,536 - INFO - Meeting: join meet
+2025-02-01 10:45:12,536 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:45:12,537 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:45:12,537 - INFO - Current time (UTC): 2025-02-01 05:15:12.537012+00:00
+2025-02-01 10:45:12,537 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:45:12,538 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:46:12,540 - INFO - Checking for upcoming meetings...
+2025-02-01 10:46:12,541 - INFO - Fetching meetings between 2025-02-01 05:16:12.541546+00:00 and 2025-02-01 06:16:12.541546+00:00
+2025-02-01 10:46:13,154 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:46:13,154 - INFO - Found 1 upcoming meetings
+2025-02-01 10:46:13,155 - INFO - Meeting: join meet
+2025-02-01 10:46:13,156 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:46:13,156 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:46:13,156 - INFO - Current time (UTC): 2025-02-01 05:16:13.156327+00:00
+2025-02-01 10:46:13,157 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:46:13,157 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:47:13,168 - INFO - Checking for upcoming meetings...
+2025-02-01 10:47:13,168 - INFO - Fetching meetings between 2025-02-01 05:17:13.168999+00:00 and 2025-02-01 06:17:13.168999+00:00
+2025-02-01 10:47:13,775 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:47:13,776 - INFO - Found 1 upcoming meetings
+2025-02-01 10:47:13,776 - INFO - Meeting: join meet
+2025-02-01 10:47:13,776 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:47:13,776 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:47:13,777 - INFO - Current time (UTC): 2025-02-01 05:17:13.777977+00:00
+2025-02-01 10:47:13,777 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:47:13,777 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:48:13,784 - INFO - Checking for upcoming meetings...
+2025-02-01 10:48:13,784 - INFO - Fetching meetings between 2025-02-01 05:18:13.784305+00:00 and 2025-02-01 06:18:13.784305+00:00
+2025-02-01 10:48:14,396 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:48:14,397 - INFO - Found 1 upcoming meetings
+2025-02-01 10:48:14,397 - INFO - Meeting: join meet
+2025-02-01 10:48:14,398 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:48:14,398 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:48:14,399 - INFO - Current time (UTC): 2025-02-01 05:18:14.399115+00:00
+2025-02-01 10:48:14,399 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:48:14,400 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:49:14,406 - INFO - Checking for upcoming meetings...
+2025-02-01 10:49:14,407 - INFO - Fetching meetings between 2025-02-01 05:19:14.407955+00:00 and 2025-02-01 06:19:14.407955+00:00
+2025-02-01 10:49:15,120 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:49:15,121 - INFO - Found 1 upcoming meetings
+2025-02-01 10:49:15,122 - INFO - Meeting: join meet
+2025-02-01 10:49:15,123 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:49:15,123 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:49:15,124 - INFO - Current time (UTC): 2025-02-01 05:19:15.124362+00:00
+2025-02-01 10:49:15,124 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:49:15,126 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:50:15,131 - INFO - Checking for upcoming meetings...
+2025-02-01 10:50:15,134 - INFO - Fetching meetings between 2025-02-01 05:20:15.133215+00:00 and 2025-02-01 06:20:15.133215+00:00
+2025-02-01 10:50:15,742 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:50:15,744 - INFO - Found 1 upcoming meetings
+2025-02-01 10:50:15,744 - INFO - Meeting: join meet
+2025-02-01 10:50:15,745 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:50:15,745 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:50:15,746 - INFO - Current time (UTC): 2025-02-01 05:20:15.746594+00:00
+2025-02-01 10:50:15,746 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:50:15,747 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:51:15,762 - INFO - Checking for upcoming meetings...
+2025-02-01 10:51:15,768 - INFO - Fetching meetings between 2025-02-01 05:21:15.768665+00:00 and 2025-02-01 06:21:15.768665+00:00
+2025-02-01 10:51:16,322 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:51:16,323 - INFO - Found 1 upcoming meetings
+2025-02-01 10:51:16,324 - INFO - Meeting: join meet
+2025-02-01 10:51:16,325 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:51:16,325 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:51:16,326 - INFO - Current time (UTC): 2025-02-01 05:21:16.326800+00:00
+2025-02-01 10:51:16,327 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:51:16,329 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:52:16,330 - INFO - Checking for upcoming meetings...
+2025-02-01 10:52:16,331 - INFO - Fetching meetings between 2025-02-01 05:22:16.331731+00:00 and 2025-02-01 06:22:16.331731+00:00
+2025-02-01 10:52:16,941 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:52:16,941 - INFO - Found 1 upcoming meetings
+2025-02-01 10:52:16,942 - INFO - Meeting: join meet
+2025-02-01 10:52:16,942 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:52:16,943 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:52:16,943 - INFO - Current time (UTC): 2025-02-01 05:22:16.943204+00:00
+2025-02-01 10:52:16,943 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:52:16,943 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:53:16,955 - INFO - Checking for upcoming meetings...
+2025-02-01 10:53:16,955 - INFO - Fetching meetings between 2025-02-01 05:23:16.955273+00:00 and 2025-02-01 06:23:16.955273+00:00
+2025-02-01 10:53:17,507 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:53:17,508 - INFO - Found 1 upcoming meetings
+2025-02-01 10:53:17,508 - INFO - Meeting: join meet
+2025-02-01 10:53:17,508 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:53:17,509 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:53:17,509 - INFO - Current time (UTC): 2025-02-01 05:23:17.509065+00:00
+2025-02-01 10:53:17,509 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:53:17,509 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:54:17,523 - INFO - Checking for upcoming meetings...
+2025-02-01 10:54:17,525 - INFO - Fetching meetings between 2025-02-01 05:24:17.524298+00:00 and 2025-02-01 06:24:17.524298+00:00
+2025-02-01 10:54:18,124 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:54:18,125 - INFO - Found 1 upcoming meetings
+2025-02-01 10:54:18,125 - INFO - Meeting: join meet
+2025-02-01 10:54:18,126 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:54:18,126 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:54:18,127 - INFO - Current time (UTC): 2025-02-01 05:24:18.127921+00:00
+2025-02-01 10:54:18,128 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:54:18,129 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:55:18,130 - INFO - Checking for upcoming meetings...
+2025-02-01 10:55:18,130 - INFO - Fetching meetings between 2025-02-01 05:25:18.130159+00:00 and 2025-02-01 06:25:18.130159+00:00
+2025-02-01 10:55:18,740 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:55:18,740 - INFO - Found 1 upcoming meetings
+2025-02-01 10:55:18,741 - INFO - Meeting: join meet
+2025-02-01 10:55:18,741 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:55:18,741 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:55:18,741 - INFO - Current time (UTC): 2025-02-01 05:25:18.741590+00:00
+2025-02-01 10:55:18,741 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:55:18,741 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:56:18,745 - INFO - Checking for upcoming meetings...
+2025-02-01 10:56:18,745 - INFO - Fetching meetings between 2025-02-01 05:26:18.745440+00:00 and 2025-02-01 06:26:18.745440+00:00
+2025-02-01 10:56:19,315 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:56:19,315 - INFO - Found 1 upcoming meetings
+2025-02-01 10:56:19,315 - INFO - Meeting: join meet
+2025-02-01 10:56:19,316 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:56:19,316 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:56:19,317 - INFO - Current time (UTC): 2025-02-01 05:26:19.317479+00:00
+2025-02-01 10:56:19,317 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:56:19,317 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:57:19,333 - INFO - Checking for upcoming meetings...
+2025-02-01 10:57:19,333 - INFO - Fetching meetings between 2025-02-01 05:27:19.333145+00:00 and 2025-02-01 06:27:19.333145+00:00
+2025-02-01 10:57:19,938 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:57:19,939 - INFO - Found 1 upcoming meetings
+2025-02-01 10:57:19,939 - INFO - Meeting: join meet
+2025-02-01 10:57:19,939 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:57:19,940 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:57:19,940 - INFO - Current time (UTC): 2025-02-01 05:27:19.940326+00:00
+2025-02-01 10:57:19,940 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:57:19,940 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:58:19,948 - INFO - Checking for upcoming meetings...
+2025-02-01 10:58:19,948 - INFO - Fetching meetings between 2025-02-01 05:28:19.948434+00:00 and 2025-02-01 06:28:19.948434+00:00
+2025-02-01 10:58:20,503 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:58:20,503 - INFO - Found 1 upcoming meetings
+2025-02-01 10:58:20,503 - INFO - Meeting: join meet
+2025-02-01 10:58:20,504 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:58:20,504 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:58:20,504 - INFO - Current time (UTC): 2025-02-01 05:28:20.504509+00:00
+2025-02-01 10:58:20,504 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:58:20,504 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 10:59:20,520 - INFO - Checking for upcoming meetings...
+2025-02-01 10:59:20,520 - INFO - Fetching meetings between 2025-02-01 05:29:20.520926+00:00 and 2025-02-01 06:29:20.520926+00:00
+2025-02-01 10:59:21,070 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 10:59:21,071 - INFO - Found 1 upcoming meetings
+2025-02-01 10:59:21,071 - INFO - Meeting: join meet
+2025-02-01 10:59:21,071 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 10:59:21,072 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 10:59:21,072 - INFO - Current time (UTC): 2025-02-01 05:29:21.072780+00:00
+2025-02-01 10:59:21,072 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 10:59:21,072 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 11:00:21,079 - INFO - Checking for upcoming meetings...
+2025-02-01 11:00:21,079 - INFO - Fetching meetings between 2025-02-01 05:30:21.079663+00:00 and 2025-02-01 06:30:21.079663+00:00
+2025-02-01 11:00:21,625 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 11:00:21,625 - INFO - Found 1 upcoming meetings
+2025-02-01 11:00:21,625 - INFO - Meeting: join meet
+2025-02-01 11:00:21,625 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 11:00:21,625 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:00:21,626 - INFO - Current time (UTC): 2025-02-01 05:30:21.625997+00:00
+2025-02-01 11:00:21,626 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 11:00:21,626 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 11:01:21,637 - INFO - Checking for upcoming meetings...
+2025-02-01 11:01:21,637 - INFO - Fetching meetings between 2025-02-01 05:31:21.637899+00:00 and 2025-02-01 06:31:21.637899+00:00
+2025-02-01 11:01:22,284 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 11:01:22,284 - INFO - Found 1 upcoming meetings
+2025-02-01 11:01:22,285 - INFO - Meeting: join meet
+2025-02-01 11:01:22,285 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 11:01:22,285 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:01:22,285 - INFO - Current time (UTC): 2025-02-01 05:31:22.285600+00:00
+2025-02-01 11:01:22,286 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 11:01:22,286 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 11:02:22,301 - INFO - Checking for upcoming meetings...
+2025-02-01 11:02:22,301 - INFO - Fetching meetings between 2025-02-01 05:32:22.301461+00:00 and 2025-02-01 06:32:22.301461+00:00
+2025-02-01 11:02:22,889 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 11:02:22,889 - INFO - Found 1 upcoming meetings
+2025-02-01 11:02:22,889 - INFO - Meeting: join meet
+2025-02-01 11:02:22,890 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 11:02:22,890 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:02:22,890 - INFO - Current time (UTC): 2025-02-01 05:32:22.890230+00:00
+2025-02-01 11:02:22,890 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 11:02:22,890 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 11:17:58,800 - INFO - Checking for upcoming meetings...
+2025-02-01 11:17:58,800 - INFO - Fetching meetings between 2025-02-01 05:47:58.800092+00:00 and 2025-02-01 06:47:58.800092+00:00
+2025-02-01 11:18:00,060 - INFO - Found meeting: join meet at 2025-02-01 10:36:00+05:30
+2025-02-01 11:18:00,060 - INFO - Found 1 upcoming meetings
+2025-02-01 11:18:00,060 - INFO - Meeting: join meet
+2025-02-01 11:18:00,061 - INFO - Start time: 2025-02-01T10:36:00+05:30
+2025-02-01 11:18:00,061 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:18:00,061 - INFO - Current time (UTC): 2025-02-01 05:48:00.061595+00:00
+2025-02-01 11:18:00,067 - INFO - Meeting start time (UTC): 2025-02-01 10:36:00+05:30
+2025-02-01 11:18:00,067 - INFO - Meeting end time (UTC): 2025-02-01 11:36:00+05:30
+2025-02-01 11:19:00,083 - INFO - Checking for upcoming meetings...
+2025-02-01 11:19:00,083 - INFO - Fetching meetings between 2025-02-01 05:49:00.083027+00:00 and 2025-02-01 06:49:00.083027+00:00
+2025-02-01 11:19:00,663 - INFO - Found meeting: join meet at 2025-02-01 11:19:00+05:30
+2025-02-01 11:19:00,663 - INFO - Found 1 upcoming meetings
+2025-02-01 11:19:00,664 - INFO - Meeting: join meet
+2025-02-01 11:19:00,664 - INFO - Start time: 2025-02-01T11:19:00+05:30
+2025-02-01 11:19:00,664 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:19:00,664 - INFO - Current time (UTC): 2025-02-01 05:49:00.664253+00:00
+2025-02-01 11:19:00,664 - INFO - Meeting start time (UTC): 2025-02-01 11:19:00+05:30
+2025-02-01 11:19:00,665 - INFO - Meeting end time (UTC): 2025-02-01 12:19:00+05:30
+2025-02-01 11:20:00,679 - INFO - Checking for upcoming meetings...
+2025-02-01 11:20:00,679 - INFO - Fetching meetings between 2025-02-01 05:50:00.679808+00:00 and 2025-02-01 06:50:00.679808+00:00
+2025-02-01 11:20:01,289 - INFO - Found meeting: join meet at 2025-02-01 11:20:00+05:30
+2025-02-01 11:20:01,290 - INFO - Found 1 upcoming meetings
+2025-02-01 11:20:01,290 - INFO - Meeting: join meet
+2025-02-01 11:20:01,290 - INFO - Start time: 2025-02-01T11:20:00+05:30
+2025-02-01 11:20:01,290 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:20:01,291 - INFO - Current time (UTC): 2025-02-01 05:50:01.291624+00:00
+2025-02-01 11:20:01,291 - INFO - Meeting start time (UTC): 2025-02-01 11:20:00+05:30
+2025-02-01 11:20:01,291 - INFO - Meeting end time (UTC): 2025-02-01 12:20:00+05:30
+2025-02-01 11:21:01,296 - INFO - Checking for upcoming meetings...
+2025-02-01 11:21:01,297 - INFO - Fetching meetings between 2025-02-01 05:51:01.297230+00:00 and 2025-02-01 06:51:01.297230+00:00
+2025-02-01 11:21:01,910 - INFO - No upcoming meetings found
+2025-02-01 11:22:01,918 - INFO - Checking for upcoming meetings...
+2025-02-01 11:22:01,919 - INFO - Fetching meetings between 2025-02-01 05:52:01.919342+00:00 and 2025-02-01 06:52:01.919342+00:00
+2025-02-01 11:22:02,489 - INFO - Found meeting: join meet at 2025-02-01 11:30:00+05:30
+2025-02-01 11:22:02,490 - INFO - Found 1 upcoming meetings
+2025-02-01 11:22:02,490 - INFO - Meeting: join meet
+2025-02-01 11:22:02,490 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:22:02,491 - INFO - Meet link: https://meet.google.com/xgm-ydsf-eri
+2025-02-01 11:22:02,491 - INFO - Current time (UTC): 2025-02-01 05:52:02.491956+00:00
+2025-02-01 11:22:02,492 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:22:02,492 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:23:02,496 - INFO - Checking for upcoming meetings...
+2025-02-01 11:23:02,496 - INFO - Fetching meetings between 2025-02-01 05:53:02.496689+00:00 and 2025-02-01 06:53:02.496689+00:00
+2025-02-01 11:23:03,153 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:23:03,153 - INFO - Found 1 upcoming meetings
+2025-02-01 11:23:03,154 - INFO - Meeting: abex
+2025-02-01 11:23:03,154 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:23:03,154 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:23:03,154 - INFO - Current time (UTC): 2025-02-01 05:53:03.154173+00:00
+2025-02-01 11:23:03,155 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:23:03,155 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:24:03,165 - INFO - Checking for upcoming meetings...
+2025-02-01 11:24:03,165 - INFO - Fetching meetings between 2025-02-01 05:54:03.165786+00:00 and 2025-02-01 06:54:03.165786+00:00
+2025-02-01 11:24:03,775 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:24:03,775 - INFO - Found 1 upcoming meetings
+2025-02-01 11:24:03,776 - INFO - Meeting: abex
+2025-02-01 11:24:03,776 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:24:03,777 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:24:03,778 - INFO - Current time (UTC): 2025-02-01 05:54:03.778748+00:00
+2025-02-01 11:24:03,778 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:24:03,779 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:25:03,792 - INFO - Checking for upcoming meetings...
+2025-02-01 11:25:03,792 - INFO - Fetching meetings between 2025-02-01 05:55:03.792349+00:00 and 2025-02-01 06:55:03.792349+00:00
+2025-02-01 11:25:04,394 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:25:04,394 - INFO - Found 1 upcoming meetings
+2025-02-01 11:25:04,395 - INFO - Meeting: abex
+2025-02-01 11:25:04,395 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:25:04,395 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:25:04,396 - INFO - Current time (UTC): 2025-02-01 05:55:04.396975+00:00
+2025-02-01 11:25:04,396 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:25:04,397 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:25:04,397 - INFO - Time to join meeting: abex
+2025-02-01 11:25:04,398 - INFO - Attempting to join meeting: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:25:04,400 - ERROR - Error joining meeting: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x006374A3+25091]
+	(No symbol) [0x005BDC04]
+	(No symbol) [0x0049B373]
+	(No symbol) [0x0048B938]
+	(No symbol) [0x0048B859]
+	(No symbol) [0x0049D850]
+	(No symbol) [0x0051ADE9]
+	(No symbol) [0x00501CA6]
+	(No symbol) [0x004D31D5]
+	(No symbol) [0x004D435D]
+	GetHandleVerifier [0x009307C3+3142947]
+	GetHandleVerifier [0x00941A2B+3213195]
+	GetHandleVerifier [0x0093C412+3191154]
+	GetHandleVerifier [0x006D8720+685184]
+	(No symbol) [0x005C6E1D]
+	(No symbol) [0x005C3E18]
+	(No symbol) [0x005C3FB6]
+	(No symbol) [0x005B66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 11:26:04,403 - INFO - Checking for upcoming meetings...
+2025-02-01 11:26:04,403 - INFO - Fetching meetings between 2025-02-01 05:56:04.403940+00:00 and 2025-02-01 06:56:04.403940+00:00
+2025-02-01 11:26:05,016 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:26:05,016 - INFO - Found 1 upcoming meetings
+2025-02-01 11:26:05,017 - INFO - Meeting: abex
+2025-02-01 11:26:05,017 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:26:05,017 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:26:05,018 - INFO - Current time (UTC): 2025-02-01 05:56:05.018812+00:00
+2025-02-01 11:26:05,018 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:26:05,018 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:26:05,018 - INFO - Time to join meeting: abex
+2025-02-01 11:26:05,019 - INFO - Attempting to join meeting: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:26:05,020 - ERROR - Error joining meeting: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x006374A3+25091]
+	(No symbol) [0x005BDC04]
+	(No symbol) [0x0049B1E9]
+	(No symbol) [0x004D256B]
+	(No symbol) [0x00501D7A]
+	(No symbol) [0x004FD851]
+	(No symbol) [0x004FCDE4]
+	(No symbol) [0x0047313D]
+	(No symbol) [0x0047368E]
+	(No symbol) [0x00473B1D]
+	GetHandleVerifier [0x009307C3+3142947]
+	GetHandleVerifier [0x00941A2B+3213195]
+	GetHandleVerifier [0x0093C412+3191154]
+	GetHandleVerifier [0x006D8720+685184]
+	(No symbol) [0x005C6E1D]
+	(No symbol) [0x00472E10]
+	(No symbol) [0x004729C0]
+	GetHandleVerifier [0x009AF20C+3661676]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 11:26:19,154 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 11:28:15,413 - INFO - Starting Meet Notes Manager...
+2025-02-01 11:28:15,413 - INFO - Initializing MeetingManager...
+2025-02-01 11:28:15,493 - INFO - Loaded existing credentials from token file
+2025-02-01 11:28:15,493 - INFO - Refreshing expired credentials
+2025-02-01 11:28:15,685 - INFO - Saved new credentials to token file
+2025-02-01 11:28:15,689 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 11:28:15,694 - INFO - Successfully initialized Calendar service
+2025-02-01 11:28:15,695 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 11:28:15,696 - INFO - Setting up Chrome browser...
+2025-02-01 11:28:15,697 - INFO - Initializing undetected-chromedriver...
+2025-02-01 11:28:16,898 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 11:28:17,951 - INFO - Verifying Google login status...
+2025-02-01 11:28:25,283 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 11:28:25,292 - INFO - Google cookies found in profile
+2025-02-01 11:28:25,293 - INFO - Checking for upcoming meetings...
+2025-02-01 11:28:25,293 - INFO - Fetching meetings between 2025-02-01 05:58:25.293322+00:00 and 2025-02-01 06:58:25.293322+00:00
+2025-02-01 11:28:26,023 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:28:26,023 - INFO - Found 1 upcoming meetings
+2025-02-01 11:28:26,024 - INFO - Meeting: abex
+2025-02-01 11:28:26,024 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:28:26,024 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:28:26,024 - INFO - Current time (UTC): 2025-02-01 05:58:26.024158+00:00
+2025-02-01 11:28:26,024 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:28:26,024 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:28:26,024 - INFO - Time to join meeting: abex
+2025-02-01 11:28:26,025 - INFO - Attempting to join meeting: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:28:28,130 - INFO - Waiting for pre-meeting screen...
+2025-02-01 11:28:43,547 - WARNING - Could not handle camera button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005674A3+25091]
+	(No symbol) [0x004EDC04]
+	(No symbol) [0x003CB373]
+	(No symbol) [0x0040F4DC]
+	(No symbol) [0x0040F65B]
+	(No symbol) [0x0044D8E2]
+	(No symbol) [0x00431F54]
+	(No symbol) [0x0044B49E]
+	(No symbol) [0x00431CA6]
+	(No symbol) [0x004031D5]
+	(No symbol) [0x0040435D]
+	GetHandleVerifier [0x008607C3+3142947]
+	GetHandleVerifier [0x00871A2B+3213195]
+	GetHandleVerifier [0x0086C412+3191154]
+	GetHandleVerifier [0x00608720+685184]
+	(No symbol) [0x004F6E1D]
+	(No symbol) [0x004F3E18]
+	(No symbol) [0x004F3FB6]
+	(No symbol) [0x004E66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 11:28:53,995 - WARNING - Could not handle microphone button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x005674A3+25091]
+	(No symbol) [0x004EDC04]
+	(No symbol) [0x003CB373]
+	(No symbol) [0x0040F4DC]
+	(No symbol) [0x0040F65B]
+	(No symbol) [0x0044D8E2]
+	(No symbol) [0x00431F54]
+	(No symbol) [0x0044B49E]
+	(No symbol) [0x00431CA6]
+	(No symbol) [0x004031D5]
+	(No symbol) [0x0040435D]
+	GetHandleVerifier [0x008607C3+3142947]
+	GetHandleVerifier [0x00871A2B+3213195]
+	GetHandleVerifier [0x0086C412+3191154]
+	GetHandleVerifier [0x00608720+685184]
+	(No symbol) [0x004F6E1D]
+	(No symbol) [0x004F3E18]
+	(No symbol) [0x004F3FB6]
+	(No symbol) [0x004E66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 11:28:53,996 - INFO - Waiting for 'Join now' button...
+2025-02-01 11:29:58,880 - ERROR - Error joining meeting: Message: timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x005674A3+25091]
+	(No symbol) [0x004EDC04]
+	(No symbol) [0x003CB373]
+	(No symbol) [0x003BCC43]
+	(No symbol) [0x003BC981]
+	(No symbol) [0x003BADF7]
+	(No symbol) [0x003BB45D]
+	(No symbol) [0x003C76FA]
+	(No symbol) [0x003D6CD5]
+	(No symbol) [0x003DBB66]
+	(No symbol) [0x003BBA65]
+	(No symbol) [0x003D6B92]
+	(No symbol) [0x0044B3BD]
+	(No symbol) [0x00431CA6]
+	(No symbol) [0x004031D5]
+	(No symbol) [0x0040435D]
+	GetHandleVerifier [0x008607C3+3142947]
+	GetHandleVerifier [0x00871A2B+3213195]
+	GetHandleVerifier [0x0086C412+3191154]
+	GetHandleVerifier [0x00608720+685184]
+	(No symbol) [0x004F6E1D]
+	(No symbol) [0x004F3E18]
+	(No symbol) [0x004F3FB6]
+	(No symbol) [0x004E66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 11:29:58,885 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\gowth\Downloads\Meet_Notes\meeting_recorder.py", line 176, in join_meeting
+    join_button = WebDriverWait(self.driver, 60).until(
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 631, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 888, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 30.000
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x005674A3+25091]
+	(No symbol) [0x004EDC04]
+	(No symbol) [0x003CB373]
+	(No symbol) [0x003BCC43]
+	(No symbol) [0x003BC981]
+	(No symbol) [0x003BADF7]
+	(No symbol) [0x003BB45D]
+	(No symbol) [0x003C76FA]
+	(No symbol) [0x003D6CD5]
+	(No symbol) [0x003DBB66]
+	(No symbol) [0x003BBA65]
+	(No symbol) [0x003D6B92]
+	(No symbol) [0x0044B3BD]
+	(No symbol) [0x00431CA6]
+	(No symbol) [0x004031D5]
+	(No symbol) [0x0040435D]
+	GetHandleVerifier [0x008607C3+3142947]
+	GetHandleVerifier [0x00871A2B+3213195]
+	GetHandleVerifier [0x0086C412+3191154]
+	GetHandleVerifier [0x00608720+685184]
+	(No symbol) [0x004F6E1D]
+	(No symbol) [0x004F3E18]
+	(No symbol) [0x004F3FB6]
+	(No symbol) [0x004E66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+
+2025-02-01 11:30:08,424 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 11:30:17,840 - INFO - Starting Meet Notes Manager...
+2025-02-01 11:30:17,841 - INFO - Initializing MeetingManager...
+2025-02-01 11:30:17,893 - INFO - Loaded existing credentials from token file
+2025-02-01 11:30:17,895 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 11:30:17,897 - INFO - Successfully initialized Calendar service
+2025-02-01 11:30:17,897 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 11:30:17,897 - INFO - Setting up Chrome browser...
+2025-02-01 11:30:17,898 - INFO - Initializing undetected-chromedriver...
+2025-02-01 11:30:18,757 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 11:30:20,170 - INFO - Verifying Google login status...
+2025-02-01 11:30:25,459 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 11:30:25,466 - INFO - Google cookies found in profile
+2025-02-01 11:30:25,467 - INFO - Checking for upcoming meetings...
+2025-02-01 11:30:25,467 - INFO - Fetching meetings between 2025-02-01 06:00:25.467560+00:00 and 2025-02-01 07:00:25.467560+00:00
+2025-02-01 11:30:26,234 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:30:26,236 - INFO - Found 1 upcoming meetings
+2025-02-01 11:30:26,237 - INFO - Meeting: abex
+2025-02-01 11:30:26,238 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:30:26,239 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:30:26,240 - INFO - Current time (UTC): 2025-02-01 06:00:26.240454+00:00
+2025-02-01 11:30:26,241 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:30:26,242 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:30:26,242 - INFO - Time to join meeting: abex
+2025-02-01 11:30:26,243 - INFO - Attempting to join meeting: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:30:29,250 - INFO - Waiting for pre-meeting screen...
+2025-02-01 11:30:42,305 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 11:33:33,232 - INFO - Starting Meet Notes Manager...
+2025-02-01 11:33:33,232 - INFO - Initializing MeetingManager...
+2025-02-01 11:33:33,260 - INFO - Loaded existing credentials from token file
+2025-02-01 11:33:33,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 11:33:33,265 - INFO - Successfully initialized Calendar service
+2025-02-01 11:33:33,265 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 11:33:33,265 - INFO - Setting up Chrome browser...
+2025-02-01 11:33:33,266 - INFO - Initializing undetected-chromedriver...
+2025-02-01 11:33:34,052 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 11:33:35,462 - INFO - Verifying Google login status...
+2025-02-01 11:33:43,314 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 11:33:43,328 - INFO - Google cookies found in profile
+2025-02-01 11:33:43,329 - INFO - Checking for upcoming meetings...
+2025-02-01 11:33:43,330 - INFO - Fetching meetings between 2025-02-01 06:03:43.330826+00:00 and 2025-02-01 07:03:43.330826+00:00
+2025-02-01 11:33:44,079 - INFO - Found meeting: abex at 2025-02-01 11:30:00+05:30
+2025-02-01 11:33:44,080 - INFO - Found 1 upcoming meetings
+2025-02-01 11:33:44,080 - INFO - Meeting: abex
+2025-02-01 11:33:44,080 - INFO - Start time: 2025-02-01T11:30:00+05:30
+2025-02-01 11:33:44,081 - INFO - Meet link: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:33:44,082 - INFO - Current time (UTC): 2025-02-01 06:03:44.081741+00:00
+2025-02-01 11:33:44,082 - INFO - Meeting start time (UTC): 2025-02-01 11:30:00+05:30
+2025-02-01 11:33:44,082 - INFO - Meeting end time (UTC): 2025-02-01 12:30:00+05:30
+2025-02-01 11:33:44,082 - INFO - Time to join meeting: abex
+2025-02-01 11:33:44,082 - INFO - Attempting to join meeting: https://meet.google.com/ekn-ijrs-apw
+2025-02-01 11:33:45,933 - INFO - Waiting for pre-meeting screen...
+2025-02-01 11:34:10,912 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 11:35:24,427 - INFO - Starting Meet Notes Manager...
+2025-02-01 11:35:24,428 - INFO - Initializing MeetingManager...
+2025-02-01 11:35:24,457 - INFO - Loaded existing credentials from token file
+2025-02-01 11:35:24,461 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 11:35:24,465 - INFO - Successfully initialized Calendar service
+2025-02-01 11:35:24,465 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 11:35:24,465 - INFO - Setting up Chrome browser...
+2025-02-01 11:35:24,466 - INFO - Initializing undetected-chromedriver...
+2025-02-01 11:35:25,618 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 11:35:27,037 - INFO - Verifying Google login status...
+2025-02-01 11:35:31,730 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 11:35:31,736 - INFO - Google cookies found in profile
+2025-02-01 11:35:31,737 - INFO - Checking for upcoming meetings...
+2025-02-01 11:35:31,737 - INFO - Fetching meetings between 2025-02-01 06:05:31.737597+00:00 and 2025-02-01 07:05:31.737597+00:00
+2025-02-01 11:35:32,523 - INFO - No upcoming meetings found
+2025-02-01 11:36:32,533 - INFO - Checking for upcoming meetings...
+2025-02-01 11:36:32,535 - INFO - Fetching meetings between 2025-02-01 06:06:32.535675+00:00 and 2025-02-01 07:06:32.535675+00:00
+2025-02-01 11:36:33,135 - INFO - Found meeting: data-com at 2025-02-01 11:38:00+05:30
+2025-02-01 11:36:33,136 - INFO - Found 1 upcoming meetings
+2025-02-01 11:36:33,137 - INFO - Meeting: data-com
+2025-02-01 11:36:33,137 - INFO - Start time: 2025-02-01T11:38:00+05:30
+2025-02-01 11:36:33,137 - INFO - Meet link: https://meet.google.com/ipi-ocrc-itv
+2025-02-01 11:36:33,138 - INFO - Current time (UTC): 2025-02-01 06:06:33.137678+00:00
+2025-02-01 11:36:33,138 - INFO - Meeting start time (UTC): 2025-02-01 11:38:00+05:30
+2025-02-01 11:36:33,138 - INFO - Meeting end time (UTC): 2025-02-01 12:38:00+05:30
+2025-02-01 11:36:33,139 - INFO - Time to join meeting: data-com
+2025-02-01 11:36:33,139 - INFO - Attempting to join meeting: https://meet.google.com/ipi-ocrc-itv
+2025-02-01 11:36:35,451 - INFO - Waiting for pre-meeting screen...
+2025-02-01 11:37:05,724 - INFO - Waiting for 'Join now' button...
+2025-02-01 11:38:12,101 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 11:38:22,056 - INFO - Starting Meet Notes Manager...
+2025-02-01 11:38:22,057 - INFO - Initializing MeetingManager...
+2025-02-01 11:38:22,085 - INFO - Loaded existing credentials from token file
+2025-02-01 11:38:22,087 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 11:38:22,089 - INFO - Successfully initialized Calendar service
+2025-02-01 11:38:22,089 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 11:38:22,090 - INFO - Setting up Chrome browser...
+2025-02-01 11:38:22,090 - INFO - Initializing undetected-chromedriver...
+2025-02-01 11:38:23,123 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 11:38:24,154 - INFO - Verifying Google login status...
+2025-02-01 11:38:29,052 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 11:38:29,059 - INFO - Google cookies found in profile
+2025-02-01 11:38:29,060 - INFO - Checking for upcoming meetings...
+2025-02-01 11:38:29,061 - INFO - Fetching meetings between 2025-02-01 06:08:29.061159+00:00 and 2025-02-01 07:08:29.061159+00:00
+2025-02-01 11:38:29,837 - INFO - Found meeting: data-com at 2025-02-01 11:38:00+05:30
+2025-02-01 11:38:29,838 - INFO - Found 1 upcoming meetings
+2025-02-01 11:38:29,839 - INFO - Meeting: data-com
+2025-02-01 11:38:29,839 - INFO - Start time: 2025-02-01T11:38:00+05:30
+2025-02-01 11:38:29,840 - INFO - Meet link: https://meet.google.com/ipi-ocrc-itv
+2025-02-01 11:38:29,840 - INFO - Current time (UTC): 2025-02-01 06:08:29.840198+00:00
+2025-02-01 11:38:29,841 - INFO - Meeting start time (UTC): 2025-02-01 11:38:00+05:30
+2025-02-01 11:38:29,841 - INFO - Meeting end time (UTC): 2025-02-01 12:38:00+05:30
+2025-02-01 11:38:29,841 - INFO - Time to join meeting: data-com
+2025-02-01 11:38:29,842 - INFO - Attempting to join meeting: https://meet.google.com/ipi-ocrc-itv
+2025-02-01 11:38:34,181 - ERROR - Meeting access error: You can't create a meeting yourself
+2025-02-01 11:38:34,181 - ERROR - Invalid or inaccessible meeting link
+2025-02-01 11:38:34,181 - ERROR - Failed to join meeting: data-com
+2025-02-01 11:38:51,468 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:00:22,218 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:00:22,219 - INFO - Initializing MeetingManager...
+2025-02-01 12:00:22,257 - INFO - Loaded existing credentials from token file
+2025-02-01 12:00:22,262 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:00:22,265 - INFO - Successfully initialized Calendar service
+2025-02-01 12:00:22,266 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:00:22,266 - INFO - Setting up Chrome browser...
+2025-02-01 12:00:22,267 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:00:23,026 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:00:24,084 - INFO - Verifying Google login status...
+2025-02-01 12:00:31,831 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:00:31,844 - INFO - Google cookies found in profile
+2025-02-01 12:00:31,848 - INFO - Checking for upcoming meetings...
+2025-02-01 12:00:31,849 - INFO - Fetching meetings between 2025-02-01 06:30:31.849968+00:00 and 2025-02-01 07:30:31.849968+00:00
+2025-02-01 12:00:32,693 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:00:32,693 - INFO - Found 1 upcoming meetings
+2025-02-01 12:00:32,695 - INFO - Meeting: test
+2025-02-01 12:00:32,695 - INFO - Start time: 2025-02-01T12:03:00+05:30
+2025-02-01 12:00:32,695 - INFO - Meet link: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:00:32,695 - INFO - Current time (UTC): 2025-02-01 06:30:32.695986+00:00
+2025-02-01 12:00:32,696 - INFO - Meeting start time (UTC): 2025-02-01 12:03:00+05:30
+2025-02-01 12:00:32,696 - INFO - Meeting end time (UTC): 2025-02-01 13:03:00+05:30
+2025-02-01 12:00:32,696 - INFO - Time to join meeting: test
+2025-02-01 12:00:32,696 - INFO - Attempting to join meeting: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:00:37,522 - ERROR - Meeting access error: You can't create a meeting yourself
+2025-02-01 12:00:37,523 - ERROR - Invalid or inaccessible meeting link
+2025-02-01 12:00:37,523 - ERROR - Failed to join meeting: test
+2025-02-01 12:00:37,523 - INFO - Cleared failed meetings list
+2025-02-01 12:01:05,198 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:01:27,574 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:01:27,574 - INFO - Initializing MeetingManager...
+2025-02-01 12:01:27,608 - INFO - Loaded existing credentials from token file
+2025-02-01 12:01:27,611 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:01:27,612 - INFO - Successfully initialized Calendar service
+2025-02-01 12:01:27,612 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:01:27,613 - INFO - Setting up Chrome browser...
+2025-02-01 12:01:27,613 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:01:31,867 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:01:33,501 - INFO - Verifying Google login status...
+2025-02-01 12:01:37,454 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:01:37,458 - INFO - Google cookies found in profile
+2025-02-01 12:01:37,459 - INFO - Checking for upcoming meetings...
+2025-02-01 12:01:37,460 - INFO - Fetching meetings between 2025-02-01 06:31:37.460234+00:00 and 2025-02-01 07:31:37.460234+00:00
+2025-02-01 12:01:38,164 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:01:38,165 - INFO - Found 1 upcoming meetings
+2025-02-01 12:01:38,165 - INFO - Meeting: test
+2025-02-01 12:01:38,166 - INFO - Start time: 2025-02-01T12:03:00+05:30
+2025-02-01 12:01:38,167 - INFO - Meet link: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:01:38,167 - INFO - Current time (UTC): 2025-02-01 06:31:38.167499+00:00
+2025-02-01 12:01:38,167 - INFO - Meeting start time (UTC): 2025-02-01 12:03:00+05:30
+2025-02-01 12:01:38,169 - INFO - Meeting end time (UTC): 2025-02-01 13:03:00+05:30
+2025-02-01 12:01:38,169 - INFO - Time to join meeting: test
+2025-02-01 12:01:38,170 - INFO - Attempting to join meeting: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:01:39,162 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:01:57,225 - ERROR - No join button found - might not be a valid meeting
+2025-02-01 12:01:57,225 - ERROR - Failed to join meeting: test
+2025-02-01 12:02:30,809 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:02:42,684 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:02:42,686 - INFO - Initializing MeetingManager...
+2025-02-01 12:02:42,714 - INFO - Loaded existing credentials from token file
+2025-02-01 12:02:42,718 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:02:42,719 - INFO - Successfully initialized Calendar service
+2025-02-01 12:02:42,720 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:02:42,720 - INFO - Setting up Chrome browser...
+2025-02-01 12:02:42,720 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:02:44,533 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:02:46,116 - INFO - Verifying Google login status...
+2025-02-01 12:02:51,581 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:02:51,589 - INFO - Google cookies found in profile
+2025-02-01 12:02:51,590 - INFO - Checking for upcoming meetings...
+2025-02-01 12:02:51,591 - INFO - Fetching meetings between 2025-02-01 06:32:51.591129+00:00 and 2025-02-01 07:32:51.591129+00:00
+2025-02-01 12:02:52,272 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:02:52,273 - INFO - Found 1 upcoming meetings
+2025-02-01 12:02:52,273 - INFO - Meeting: test
+2025-02-01 12:02:52,274 - INFO - Start time: 2025-02-01T12:03:00+05:30
+2025-02-01 12:02:52,274 - INFO - Meet link: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:02:52,274 - INFO - Current time (UTC): 2025-02-01 06:32:52.274188+00:00
+2025-02-01 12:02:52,275 - INFO - Meeting start time (UTC): 2025-02-01 12:03:00+05:30
+2025-02-01 12:02:52,275 - INFO - Meeting end time (UTC): 2025-02-01 13:03:00+05:30
+2025-02-01 12:02:52,275 - INFO - Time to join meeting: test
+2025-02-01 12:02:52,275 - INFO - Attempting to join meeting: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:02:53,227 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:03:10,860 - ERROR - No join button found - might not be a valid meeting
+2025-02-01 12:03:10,860 - ERROR - Failed to join meeting: test
+2025-02-01 12:04:10,863 - INFO - Checking for upcoming meetings...
+2025-02-01 12:04:10,863 - INFO - Fetching meetings between 2025-02-01 06:34:10.863184+00:00 and 2025-02-01 07:34:10.863184+00:00
+2025-02-01 12:04:11,485 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:04:11,485 - INFO - Found 1 upcoming meetings
+2025-02-01 12:04:11,486 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:04:21,231 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:04:27,518 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:04:27,518 - INFO - Initializing MeetingManager...
+2025-02-01 12:04:27,570 - INFO - Loaded existing credentials from token file
+2025-02-01 12:04:27,576 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:04:27,580 - INFO - Successfully initialized Calendar service
+2025-02-01 12:04:27,581 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:04:27,581 - INFO - Setting up Chrome browser...
+2025-02-01 12:04:27,582 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:04:28,618 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:04:30,940 - INFO - Verifying Google login status...
+2025-02-01 12:04:36,381 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:04:36,389 - INFO - Google cookies found in profile
+2025-02-01 12:04:36,390 - INFO - Checking for upcoming meetings...
+2025-02-01 12:04:36,390 - INFO - Fetching meetings between 2025-02-01 06:34:36.390286+00:00 and 2025-02-01 07:34:36.390286+00:00
+2025-02-01 12:04:37,007 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:04:37,008 - INFO - Found 1 upcoming meetings
+2025-02-01 12:04:37,008 - INFO - Meeting: test
+2025-02-01 12:04:37,009 - INFO - Start time: 2025-02-01T12:03:00+05:30
+2025-02-01 12:04:37,009 - INFO - Meet link: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:04:37,009 - INFO - Current time (UTC): 2025-02-01 06:34:37.009589+00:00
+2025-02-01 12:04:37,009 - INFO - Meeting start time (UTC): 2025-02-01 12:03:00+05:30
+2025-02-01 12:04:37,009 - INFO - Meeting end time (UTC): 2025-02-01 13:03:00+05:30
+2025-02-01 12:04:37,011 - INFO - Time to join meeting: test
+2025-02-01 12:04:37,011 - INFO - Attempting to join meeting: https://meet.google.com/ubt-iast-biy
+2025-02-01 12:04:38,252 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:04:56,583 - ERROR - No join button found - might not be a valid meeting
+2025-02-01 12:04:56,584 - ERROR - Failed to join meeting: test
+2025-02-01 12:05:56,592 - INFO - Checking for upcoming meetings...
+2025-02-01 12:05:56,593 - INFO - Fetching meetings between 2025-02-01 06:35:56.593147+00:00 and 2025-02-01 07:35:56.593147+00:00
+2025-02-01 12:05:57,203 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:05:57,204 - INFO - Found 1 upcoming meetings
+2025-02-01 12:05:57,205 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:06:57,216 - INFO - Checking for upcoming meetings...
+2025-02-01 12:06:57,217 - INFO - Fetching meetings between 2025-02-01 06:36:57.217798+00:00 and 2025-02-01 07:36:57.217798+00:00
+2025-02-01 12:06:57,810 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:06:57,811 - INFO - Found 1 upcoming meetings
+2025-02-01 12:06:57,812 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:07:57,817 - INFO - Checking for upcoming meetings...
+2025-02-01 12:07:57,818 - INFO - Fetching meetings between 2025-02-01 06:37:57.818848+00:00 and 2025-02-01 07:37:57.818848+00:00
+2025-02-01 12:07:58,397 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:07:58,397 - INFO - Found 1 upcoming meetings
+2025-02-01 12:07:58,398 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:08:58,402 - INFO - Checking for upcoming meetings...
+2025-02-01 12:08:58,403 - INFO - Fetching meetings between 2025-02-01 06:38:58.403132+00:00 and 2025-02-01 07:38:58.403132+00:00
+2025-02-01 12:08:58,962 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:08:58,963 - INFO - Found 1 upcoming meetings
+2025-02-01 12:08:58,964 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:09:58,968 - INFO - Checking for upcoming meetings...
+2025-02-01 12:09:58,971 - INFO - Fetching meetings between 2025-02-01 06:39:58.970187+00:00 and 2025-02-01 07:39:58.970187+00:00
+2025-02-01 12:09:59,594 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:09:59,595 - INFO - Found 1 upcoming meetings
+2025-02-01 12:09:59,595 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:10:59,604 - INFO - Checking for upcoming meetings...
+2025-02-01 12:10:59,605 - INFO - Fetching meetings between 2025-02-01 06:40:59.605523+00:00 and 2025-02-01 07:40:59.605523+00:00
+2025-02-01 12:11:00,210 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:11:00,211 - INFO - Found 1 upcoming meetings
+2025-02-01 12:11:00,211 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:12:00,225 - INFO - Checking for upcoming meetings...
+2025-02-01 12:12:00,228 - INFO - Fetching meetings between 2025-02-01 06:42:00.228827+00:00 and 2025-02-01 07:42:00.228827+00:00
+2025-02-01 12:12:00,828 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:12:00,828 - INFO - Found 1 upcoming meetings
+2025-02-01 12:12:00,830 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:13:00,844 - INFO - Checking for upcoming meetings...
+2025-02-01 12:13:00,845 - INFO - Fetching meetings between 2025-02-01 06:43:00.845810+00:00 and 2025-02-01 07:43:00.845810+00:00
+2025-02-01 12:13:01,424 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:13:01,426 - INFO - Found 1 upcoming meetings
+2025-02-01 12:13:01,427 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:14:01,440 - INFO - Checking for upcoming meetings...
+2025-02-01 12:14:01,444 - INFO - Fetching meetings between 2025-02-01 06:44:01.444273+00:00 and 2025-02-01 07:44:01.444273+00:00
+2025-02-01 12:14:02,070 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:14:02,071 - INFO - Found 1 upcoming meetings
+2025-02-01 12:14:02,072 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:15:02,078 - INFO - Checking for upcoming meetings...
+2025-02-01 12:15:02,083 - INFO - Fetching meetings between 2025-02-01 06:45:02.083150+00:00 and 2025-02-01 07:45:02.083150+00:00
+2025-02-01 12:15:02,637 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:15:02,638 - INFO - Found 1 upcoming meetings
+2025-02-01 12:15:02,638 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:16:02,649 - INFO - Checking for upcoming meetings...
+2025-02-01 12:16:02,650 - INFO - Fetching meetings between 2025-02-01 06:46:02.650056+00:00 and 2025-02-01 07:46:02.650056+00:00
+2025-02-01 12:16:03,211 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:16:03,212 - INFO - Found 1 upcoming meetings
+2025-02-01 12:16:03,212 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:17:03,214 - INFO - Checking for upcoming meetings...
+2025-02-01 12:17:03,217 - INFO - Fetching meetings between 2025-02-01 06:47:03.217184+00:00 and 2025-02-01 07:47:03.217184+00:00
+2025-02-01 12:17:03,831 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:17:03,832 - INFO - Found 1 upcoming meetings
+2025-02-01 12:17:03,832 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:18:03,840 - INFO - Checking for upcoming meetings...
+2025-02-01 12:18:03,841 - INFO - Fetching meetings between 2025-02-01 06:48:03.841656+00:00 and 2025-02-01 07:48:03.841656+00:00
+2025-02-01 12:18:04,451 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:18:04,453 - INFO - Found 1 upcoming meetings
+2025-02-01 12:18:04,453 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:19:04,461 - INFO - Checking for upcoming meetings...
+2025-02-01 12:19:04,462 - INFO - Fetching meetings between 2025-02-01 06:49:04.462523+00:00 and 2025-02-01 07:49:04.462523+00:00
+2025-02-01 12:19:05,053 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:19:05,054 - INFO - Found 1 upcoming meetings
+2025-02-01 12:19:05,055 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:20:05,055 - INFO - Checking for upcoming meetings...
+2025-02-01 12:20:05,056 - INFO - Fetching meetings between 2025-02-01 06:50:05.056407+00:00 and 2025-02-01 07:50:05.056407+00:00
+2025-02-01 12:20:05,695 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:20:05,696 - INFO - Found 1 upcoming meetings
+2025-02-01 12:20:05,696 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:21:05,706 - INFO - Checking for upcoming meetings...
+2025-02-01 12:21:05,710 - INFO - Fetching meetings between 2025-02-01 06:51:05.710377+00:00 and 2025-02-01 07:51:05.710377+00:00
+2025-02-01 12:21:06,299 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:21:06,299 - INFO - Found 1 upcoming meetings
+2025-02-01 12:21:06,300 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:22:06,308 - INFO - Checking for upcoming meetings...
+2025-02-01 12:22:06,311 - INFO - Fetching meetings between 2025-02-01 06:52:06.311299+00:00 and 2025-02-01 07:52:06.311299+00:00
+2025-02-01 12:22:06,866 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:22:06,867 - INFO - Found 1 upcoming meetings
+2025-02-01 12:22:06,868 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:23:06,880 - INFO - Checking for upcoming meetings...
+2025-02-01 12:23:06,881 - INFO - Fetching meetings between 2025-02-01 06:53:06.881554+00:00 and 2025-02-01 07:53:06.881554+00:00
+2025-02-01 12:23:07,470 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:23:07,471 - INFO - Found 1 upcoming meetings
+2025-02-01 12:23:07,472 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:24:07,484 - INFO - Checking for upcoming meetings...
+2025-02-01 12:24:07,484 - INFO - Fetching meetings between 2025-02-01 06:54:07.484728+00:00 and 2025-02-01 07:54:07.484728+00:00
+2025-02-01 12:24:08,079 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:24:08,080 - INFO - Found 1 upcoming meetings
+2025-02-01 12:24:08,081 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:25:08,088 - INFO - Checking for upcoming meetings...
+2025-02-01 12:25:08,091 - INFO - Fetching meetings between 2025-02-01 06:55:08.090541+00:00 and 2025-02-01 07:55:08.090541+00:00
+2025-02-01 12:25:08,974 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:25:08,976 - INFO - Found 1 upcoming meetings
+2025-02-01 12:25:08,976 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:26:08,991 - INFO - Checking for upcoming meetings...
+2025-02-01 12:26:08,992 - INFO - Fetching meetings between 2025-02-01 06:56:08.992477+00:00 and 2025-02-01 07:56:08.992477+00:00
+2025-02-01 12:26:09,560 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:26:09,560 - INFO - Found 1 upcoming meetings
+2025-02-01 12:26:09,561 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:27:09,562 - INFO - Checking for upcoming meetings...
+2025-02-01 12:27:09,563 - INFO - Fetching meetings between 2025-02-01 06:57:09.562290+00:00 and 2025-02-01 07:57:09.562290+00:00
+2025-02-01 12:27:10,148 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:27:10,150 - INFO - Found 1 upcoming meetings
+2025-02-01 12:27:10,151 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:28:10,158 - INFO - Checking for upcoming meetings...
+2025-02-01 12:28:10,160 - INFO - Fetching meetings between 2025-02-01 06:58:10.160847+00:00 and 2025-02-01 07:58:10.160847+00:00
+2025-02-01 12:28:10,771 - INFO - Found meeting: test at 2025-02-01 12:03:00+05:30
+2025-02-01 12:28:10,772 - INFO - Found 1 upcoming meetings
+2025-02-01 12:28:10,772 - INFO - Skipping previously failed meeting: test
+2025-02-01 12:28:52,617 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:32:39,956 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:32:39,957 - INFO - Initializing MeetingManager...
+2025-02-01 12:32:39,985 - INFO - Loaded existing credentials from token file
+2025-02-01 12:32:39,985 - INFO - Refreshing expired credentials
+2025-02-01 12:32:40,290 - INFO - Saved new credentials to token file
+2025-02-01 12:32:40,296 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:32:40,300 - INFO - Successfully initialized Calendar service
+2025-02-01 12:32:40,301 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:32:40,301 - INFO - Setting up Chrome browser...
+2025-02-01 12:32:40,302 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:32:41,332 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:32:42,403 - INFO - Verifying Google login status...
+2025-02-01 12:32:48,649 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:32:48,654 - INFO - Google cookies found in profile
+2025-02-01 12:32:48,656 - INFO - Checking for upcoming meetings...
+2025-02-01 12:32:48,657 - INFO - Fetching meetings between 2025-02-01 07:02:48.657016+00:00 and 2025-02-01 08:02:48.657016+00:00
+2025-02-01 12:32:49,503 - ERROR - Error fetching meetings: 'summary'
+2025-02-01 12:32:49,504 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\gowth\Downloads\Meet_Notes\calendar_service.py", line 79, in get_upcoming_meetings
+    'summary': event['summary'],
+KeyError: 'summary'
+
+2025-02-01 12:32:49,504 - INFO - No upcoming meetings found
+2025-02-01 12:33:49,506 - INFO - Checking for upcoming meetings...
+2025-02-01 12:33:49,507 - INFO - Fetching meetings between 2025-02-01 07:03:49.507578+00:00 and 2025-02-01 08:03:49.507578+00:00
+2025-02-01 12:33:50,151 - INFO - Found meeting: tata at 2025-02-01 12:34:00+05:30
+2025-02-01 12:33:50,153 - INFO - Found 1 upcoming meetings
+2025-02-01 12:33:50,154 - INFO - Meeting: tata
+2025-02-01 12:33:50,154 - INFO - Start time: 2025-02-01T12:34:00+05:30
+2025-02-01 12:33:50,154 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:33:50,155 - INFO - Current time (UTC): 2025-02-01 07:03:50.155474+00:00
+2025-02-01 12:33:50,155 - INFO - Meeting start time (UTC): 2025-02-01 12:34:00+05:30
+2025-02-01 12:33:50,155 - INFO - Meeting end time (UTC): 2025-02-01 13:34:00+05:30
+2025-02-01 12:33:50,155 - INFO - Time to join meeting: tata
+2025-02-01 12:33:50,156 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:33:57,950 - ERROR - Meeting access error: You can't create a meeting yourself
+2025-02-01 12:33:57,950 - ERROR - Invalid or inaccessible meeting link
+2025-02-01 12:33:57,950 - ERROR - Failed to join meeting: tata
+2025-02-01 12:34:44,754 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:35:00,505 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:35:00,507 - INFO - Initializing MeetingManager...
+2025-02-01 12:35:00,540 - INFO - Loaded existing credentials from token file
+2025-02-01 12:35:00,542 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:35:00,544 - INFO - Successfully initialized Calendar service
+2025-02-01 12:35:00,544 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:35:00,546 - INFO - Setting up Chrome browser...
+2025-02-01 12:35:00,546 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:35:01,650 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:35:07,451 - INFO - Verifying Google login status...
+2025-02-01 12:35:12,500 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:35:12,515 - INFO - Google cookies found in profile
+2025-02-01 12:35:12,516 - INFO - Checking for upcoming meetings...
+2025-02-01 12:35:12,516 - INFO - Fetching meetings between 2025-02-01 07:05:12.516898+00:00 and 2025-02-01 08:05:12.516898+00:00
+2025-02-01 12:35:13,274 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:35:13,275 - INFO - Found 1 upcoming meetings
+2025-02-01 12:35:13,275 - INFO - Meeting: tata
+2025-02-01 12:35:13,276 - INFO - Start time: 2025-02-01T12:36:00+05:30
+2025-02-01 12:35:13,276 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:35:13,276 - INFO - Current time (UTC): 2025-02-01 07:05:13.276309+00:00
+2025-02-01 12:35:13,277 - INFO - Meeting start time (UTC): 2025-02-01 12:36:00+05:30
+2025-02-01 12:35:13,277 - INFO - Meeting end time (UTC): 2025-02-01 13:36:00+05:30
+2025-02-01 12:35:13,278 - INFO - Time to join meeting: tata
+2025-02-01 12:35:13,279 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:35:17,868 - ERROR - Meeting access error: You can't create a meeting yourself
+2025-02-01 12:35:17,868 - ERROR - Invalid or inaccessible meeting link
+2025-02-01 12:35:17,870 - ERROR - Failed to join meeting: tata
+2025-02-01 12:36:17,877 - INFO - Checking for upcoming meetings...
+2025-02-01 12:36:17,877 - INFO - Fetching meetings between 2025-02-01 07:06:17.877438+00:00 and 2025-02-01 08:06:17.877438+00:00
+2025-02-01 12:36:18,500 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:36:18,500 - INFO - Found 1 upcoming meetings
+2025-02-01 12:36:18,501 - INFO - Skipping previously failed meeting: tata
+2025-02-01 12:36:35,919 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:36:42,345 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:36:42,346 - INFO - Initializing MeetingManager...
+2025-02-01 12:36:42,377 - INFO - Loaded existing credentials from token file
+2025-02-01 12:36:42,379 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:36:42,380 - INFO - Successfully initialized Calendar service
+2025-02-01 12:36:42,380 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:36:42,380 - INFO - Setting up Chrome browser...
+2025-02-01 12:36:42,380 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:36:43,023 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:36:53,084 - INFO - Verifying Google login status...
+2025-02-01 12:36:59,954 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:36:59,962 - INFO - Google cookies found in profile
+2025-02-01 12:36:59,963 - INFO - Checking for upcoming meetings...
+2025-02-01 12:36:59,964 - INFO - Fetching meetings between 2025-02-01 07:06:59.963482+00:00 and 2025-02-01 08:06:59.963482+00:00
+2025-02-01 12:37:00,691 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:37:00,692 - INFO - Found 1 upcoming meetings
+2025-02-01 12:37:00,692 - INFO - Meeting: tata
+2025-02-01 12:37:00,693 - INFO - Start time: 2025-02-01T12:36:00+05:30
+2025-02-01 12:37:00,693 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:37:00,693 - INFO - Current time (UTC): 2025-02-01 07:07:00.693613+00:00
+2025-02-01 12:37:00,693 - INFO - Meeting start time (UTC): 2025-02-01 12:36:00+05:30
+2025-02-01 12:37:00,693 - INFO - Meeting end time (UTC): 2025-02-01 13:36:00+05:30
+2025-02-01 12:37:00,693 - INFO - Time to join meeting: tata
+2025-02-01 12:37:00,694 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:37:07,150 - ERROR - Meeting access error: You can't create a meeting yourself
+2025-02-01 12:37:07,150 - ERROR - Invalid or inaccessible meeting link
+2025-02-01 12:37:07,150 - ERROR - Failed to join meeting: tata
+2025-02-01 12:37:26,374 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:38:44,732 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:38:44,733 - INFO - Initializing MeetingManager...
+2025-02-01 12:38:44,766 - INFO - Loaded existing credentials from token file
+2025-02-01 12:38:44,769 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:38:44,772 - INFO - Successfully initialized Calendar service
+2025-02-01 12:38:44,772 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:38:44,772 - INFO - Setting up Chrome browser...
+2025-02-01 12:38:44,772 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:38:45,801 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:38:47,220 - INFO - Verifying Google login status...
+2025-02-01 12:38:52,591 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:38:52,597 - INFO - Google cookies found in profile
+2025-02-01 12:38:52,599 - INFO - Checking for upcoming meetings...
+2025-02-01 12:38:52,599 - INFO - Fetching meetings between 2025-02-01 07:08:52.599529+00:00 and 2025-02-01 08:08:52.599529+00:00
+2025-02-01 12:38:53,355 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:38:53,356 - INFO - Found 1 upcoming meetings
+2025-02-01 12:38:53,356 - INFO - Meeting: tata
+2025-02-01 12:38:53,356 - INFO - Start time: 2025-02-01T12:36:00+05:30
+2025-02-01 12:38:53,356 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:38:53,358 - INFO - Current time (UTC): 2025-02-01 07:08:53.358539+00:00
+2025-02-01 12:38:53,358 - INFO - Meeting start time (UTC): 2025-02-01 12:36:00+05:30
+2025-02-01 12:38:53,358 - INFO - Meeting end time (UTC): 2025-02-01 13:36:00+05:30
+2025-02-01 12:38:53,359 - INFO - Time to join meeting: tata
+2025-02-01 12:38:53,359 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:39:05,573 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:39:29,651 - ERROR - Could not join meeting
+2025-02-01 12:39:29,652 - ERROR - Failed to join meeting: tata
+2025-02-01 12:40:29,657 - INFO - Checking for upcoming meetings...
+2025-02-01 12:40:29,657 - INFO - Fetching meetings between 2025-02-01 07:10:29.657647+00:00 and 2025-02-01 08:10:29.657647+00:00
+2025-02-01 12:40:30,287 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:40:30,287 - INFO - Found 1 upcoming meetings
+2025-02-01 12:40:30,287 - INFO - Skipping previously failed meeting: tata
+2025-02-01 12:41:30,293 - INFO - Checking for upcoming meetings...
+2025-02-01 12:41:30,294 - INFO - Fetching meetings between 2025-02-01 07:11:30.293281+00:00 and 2025-02-01 08:11:30.293281+00:00
+2025-02-01 12:41:30,923 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:41:30,924 - INFO - Found 1 upcoming meetings
+2025-02-01 12:41:30,924 - INFO - Skipping previously failed meeting: tata
+2025-02-01 12:41:37,921 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:41:52,354 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:41:52,354 - INFO - Initializing MeetingManager...
+2025-02-01 12:41:52,381 - INFO - Loaded existing credentials from token file
+2025-02-01 12:41:52,384 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:41:52,386 - INFO - Successfully initialized Calendar service
+2025-02-01 12:41:52,386 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:41:52,386 - INFO - Setting up Chrome browser...
+2025-02-01 12:41:52,387 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:41:53,013 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:42:29,539 - INFO - Verifying Google login status...
+2025-02-01 12:42:34,178 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:42:34,189 - INFO - Google cookies found in profile
+2025-02-01 12:42:34,193 - INFO - Checking for upcoming meetings...
+2025-02-01 12:42:34,195 - INFO - Fetching meetings between 2025-02-01 07:12:34.195191+00:00 and 2025-02-01 08:12:34.195191+00:00
+2025-02-01 12:42:34,986 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:42:34,988 - INFO - Found 1 upcoming meetings
+2025-02-01 12:42:34,989 - INFO - Meeting: tata
+2025-02-01 12:42:34,989 - INFO - Start time: 2025-02-01T12:36:00+05:30
+2025-02-01 12:42:34,990 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:42:34,990 - INFO - Current time (UTC): 2025-02-01 07:12:34.990813+00:00
+2025-02-01 12:42:34,991 - INFO - Meeting start time (UTC): 2025-02-01 12:36:00+05:30
+2025-02-01 12:42:34,991 - INFO - Meeting end time (UTC): 2025-02-01 13:36:00+05:30
+2025-02-01 12:42:34,993 - INFO - Time to join meeting: tata
+2025-02-01 12:42:34,994 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:42:45,479 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:42:48,560 - INFO - Trying join button selector: //button[contains(@class, 'UywwFc-LgbsSe')]//span[@jsname='V67aGc'][contains(text(), 'Join now')]
+2025-02-01 12:42:48,817 - INFO - Found join button using selector: //button[contains(@class, 'UywwFc-LgbsSe')]//span[@jsname='V67aGc'][contains(text(), 'Join now')]
+2025-02-01 12:42:50,958 - INFO - Clicked join button
+2025-02-01 12:42:55,983 - ERROR - Could not join meeting
+2025-02-01 12:42:55,983 - ERROR - Failed to join meeting: tata
+2025-02-01 12:43:55,989 - INFO - Checking for upcoming meetings...
+2025-02-01 12:43:55,989 - INFO - Fetching meetings between 2025-02-01 07:13:55.989661+00:00 and 2025-02-01 08:13:55.989661+00:00
+2025-02-01 12:43:56,616 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:43:56,616 - INFO - Found 1 upcoming meetings
+2025-02-01 12:43:56,617 - INFO - Skipping previously failed meeting: tata
+2025-02-01 12:44:56,625 - INFO - Checking for upcoming meetings...
+2025-02-01 12:44:56,625 - INFO - Fetching meetings between 2025-02-01 07:14:56.625246+00:00 and 2025-02-01 08:14:56.625246+00:00
+2025-02-01 12:44:57,227 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:44:57,228 - INFO - Found 1 upcoming meetings
+2025-02-01 12:44:57,228 - INFO - Skipping previously failed meeting: tata
+2025-02-01 12:45:04,808 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:45:32,251 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:45:32,251 - INFO - Initializing MeetingManager...
+2025-02-01 12:45:32,278 - INFO - Loaded existing credentials from token file
+2025-02-01 12:45:32,281 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:45:32,283 - INFO - Successfully initialized Calendar service
+2025-02-01 12:45:32,283 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:45:32,283 - INFO - Setting up Chrome browser...
+2025-02-01 12:45:32,284 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:45:33,104 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:46:44,016 - INFO - Verifying Google login status...
+2025-02-01 12:46:48,504 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:46:48,512 - INFO - Google cookies found in profile
+2025-02-01 12:46:48,512 - INFO - Checking for upcoming meetings...
+2025-02-01 12:46:48,512 - INFO - Fetching meetings between 2025-02-01 07:16:48.512891+00:00 and 2025-02-01 08:16:48.512891+00:00
+2025-02-01 12:46:49,152 - INFO - Found meeting: tata at 2025-02-01 12:36:00+05:30
+2025-02-01 12:46:49,152 - INFO - Found 1 upcoming meetings
+2025-02-01 12:46:49,153 - INFO - Meeting: tata
+2025-02-01 12:46:49,153 - INFO - Start time: 2025-02-01T12:36:00+05:30
+2025-02-01 12:46:49,153 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:46:49,153 - INFO - Current time (UTC): 2025-02-01 07:16:49.153454+00:00
+2025-02-01 12:46:49,154 - INFO - Meeting start time (UTC): 2025-02-01 12:36:00+05:30
+2025-02-01 12:46:49,154 - INFO - Meeting end time (UTC): 2025-02-01 13:36:00+05:30
+2025-02-01 12:46:49,154 - INFO - Time to join meeting: tata
+2025-02-01 12:46:49,154 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:47:00,790 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:47:05,663 - INFO - Found join button, attempting to click...
+2025-02-01 12:47:05,835 - INFO - Clicked join button, waiting for completion...
+2025-02-01 12:47:05,843 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 12:47:05,844 - INFO - Successfully joined meeting: tata
+2025-02-01 12:47:05,848 - INFO - Started recording thread
+2025-02-01 12:47:05,918 - ERROR - Error in screen recording: No module named 'mss'
+2025-02-01 12:47:05,920 - ERROR - Error starting recording: Could not find PyAudio; check installation
+2025-02-01 12:47:05,988 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\speech_recognition\__init__.py", line 108, in get_pyaudio
+    import pyaudio
+ModuleNotFoundError: No module named 'pyaudio'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gowth\Downloads\Meet_Notes\meeting_recorder.py", line 349, in start_recording
+    self.record_audio_and_transcribe()
+  File "C:\Users\gowth\Downloads\Meet_Notes\meeting_recorder.py", line 375, in record_audio_and_transcribe
+    with sr.Microphone() as source:
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\speech_recognition\__init__.py", line 80, in __init__
+    self.pyaudio_module = self.get_pyaudio()
+  File "C:\Users\gowth\Downloads\Meet_Notes\myenv\lib\site-packages\speech_recognition\__init__.py", line 110, in get_pyaudio
+    raise AttributeError("Could not find PyAudio; check installation")
+AttributeError: Could not find PyAudio; check installation
+
+2025-02-01 12:47:42,210 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 12:54:13,025 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:54:13,026 - INFO - Initializing MeetingManager...
+2025-02-01 12:54:13,106 - INFO - Loaded existing credentials from token file
+2025-02-01 12:54:13,107 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:54:13,109 - INFO - Successfully initialized Calendar service
+2025-02-01 12:54:13,109 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:54:13,109 - INFO - Setting up Chrome browser...
+2025-02-01 12:54:13,186 - INFO - Selenium patched. Safe to import Chrome / ChromeOptions
+2025-02-01 12:54:13,186 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:54:13,250 - INFO - Selenium patched. Safe to import Chrome / ChromeOptions
+2025-02-01 12:54:13,309 - ERROR - Error initializing undetected-chromedriver: WebDriver.__init__() got an unexpected keyword argument 'use_subprocess'
+2025-02-01 12:54:13,311 - ERROR - Failed to initialize browser: WebDriver.__init__() got an unexpected keyword argument 'use_subprocess'
+2025-02-01 12:54:48,733 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:54:48,734 - INFO - Initializing MeetingManager...
+2025-02-01 12:54:48,761 - INFO - Loaded existing credentials from token file
+2025-02-01 12:54:48,764 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:54:48,766 - INFO - Successfully initialized Calendar service
+2025-02-01 12:54:48,766 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:54:48,767 - INFO - Setting up Chrome browser...
+2025-02-01 12:54:48,879 - INFO - Selenium patched. Safe to import Chrome / ChromeOptions
+2025-02-01 12:54:48,879 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:54:48,943 - INFO - Selenium patched. Safe to import Chrome / ChromeOptions
+2025-02-01 12:54:49,007 - ERROR - Error initializing undetected-chromedriver: WebDriver.__init__() got an unexpected keyword argument 'version_main'
+2025-02-01 12:54:49,008 - ERROR - Failed to initialize browser: WebDriver.__init__() got an unexpected keyword argument 'version_main'
+2025-02-01 12:55:15,528 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:55:15,529 - INFO - Initializing MeetingManager...
+2025-02-01 12:55:15,561 - INFO - Loaded existing credentials from token file
+2025-02-01 12:55:15,565 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:55:15,567 - INFO - Successfully initialized Calendar service
+2025-02-01 12:55:15,567 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:55:15,567 - INFO - Setting up Chrome browser...
+2025-02-01 12:55:15,640 - INFO - Selenium patched. Safe to import Chrome / ChromeOptions
+2025-02-01 12:55:15,640 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:55:15,703 - INFO - Selenium patched. Safe to import Chrome / ChromeOptions
+2025-02-01 12:55:15,766 - ERROR - Error initializing undetected-chromedriver: WebDriver.__init__() got an unexpected keyword argument 'headless'
+2025-02-01 12:55:15,767 - ERROR - Failed to initialize browser: WebDriver.__init__() got an unexpected keyword argument 'headless'
+2025-02-01 12:55:32,126 - INFO - Starting Meet Notes Manager...
+2025-02-01 12:55:32,126 - INFO - Initializing MeetingManager...
+2025-02-01 12:55:32,153 - INFO - Loaded existing credentials from token file
+2025-02-01 12:55:32,156 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 12:55:32,158 - INFO - Successfully initialized Calendar service
+2025-02-01 12:55:32,158 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 12:55:32,158 - INFO - Setting up Chrome browser...
+2025-02-01 12:55:32,159 - INFO - Initializing undetected-chromedriver...
+2025-02-01 12:55:32,942 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 12:55:34,400 - INFO - Verifying Google login status...
+2025-02-01 12:55:39,372 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 12:55:39,377 - INFO - Google cookies found in profile
+2025-02-01 12:55:39,379 - INFO - Checking for upcoming meetings...
+2025-02-01 12:55:39,380 - INFO - Fetching meetings between 2025-02-01 07:25:39.380682+00:00 and 2025-02-01 08:25:39.380682+00:00
+2025-02-01 12:55:40,036 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 12:55:40,037 - INFO - Found 1 upcoming meetings
+2025-02-01 12:55:40,037 - INFO - Meeting: tata
+2025-02-01 12:55:40,038 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 12:55:40,038 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:55:40,039 - INFO - Current time (UTC): 2025-02-01 07:25:40.039009+00:00
+2025-02-01 12:55:40,039 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 12:55:40,039 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 12:55:40,040 - INFO - Time to join meeting: tata
+2025-02-01 12:55:40,041 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:55:50,247 - INFO - Waiting for pre-meeting screen...
+2025-02-01 12:55:53,367 - INFO - Found join button, attempting to click...
+2025-02-01 12:55:53,742 - INFO - Clicked join button, waiting for completion...
+2025-02-01 12:55:53,902 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 12:55:53,902 - INFO - Successfully joined meeting: tata
+2025-02-01 12:55:53,902 - INFO - Started recording thread
+2025-02-01 12:55:54,867 - INFO - Enabled captions in Meet
+2025-02-01 12:56:53,907 - INFO - Checking for upcoming meetings...
+2025-02-01 12:56:53,908 - INFO - Fetching meetings between 2025-02-01 07:26:53.908402+00:00 and 2025-02-01 08:26:53.908402+00:00
+2025-02-01 12:56:54,457 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 12:56:54,458 - INFO - Found 1 upcoming meetings
+2025-02-01 12:56:54,458 - INFO - Meeting: tata
+2025-02-01 12:56:54,459 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 12:56:54,459 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:56:54,459 - INFO - Current time (UTC): 2025-02-01 07:26:54.459585+00:00
+2025-02-01 12:56:54,460 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 12:56:54,460 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 12:57:54,475 - INFO - Checking for upcoming meetings...
+2025-02-01 12:57:54,476 - INFO - Fetching meetings between 2025-02-01 07:27:54.476881+00:00 and 2025-02-01 08:27:54.476881+00:00
+2025-02-01 12:57:55,001 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 12:57:55,002 - INFO - Found 1 upcoming meetings
+2025-02-01 12:57:55,002 - INFO - Meeting: tata
+2025-02-01 12:57:55,004 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 12:57:55,004 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:57:55,004 - INFO - Current time (UTC): 2025-02-01 07:27:55.004504+00:00
+2025-02-01 12:57:55,006 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 12:57:55,006 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 12:58:55,010 - INFO - Checking for upcoming meetings...
+2025-02-01 12:58:55,011 - INFO - Fetching meetings between 2025-02-01 07:28:55.011794+00:00 and 2025-02-01 08:28:55.011794+00:00
+2025-02-01 12:58:55,555 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 12:58:55,555 - INFO - Found 1 upcoming meetings
+2025-02-01 12:58:55,555 - INFO - Meeting: tata
+2025-02-01 12:58:55,555 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 12:58:55,556 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:58:55,556 - INFO - Current time (UTC): 2025-02-01 07:28:55.556870+00:00
+2025-02-01 12:58:55,556 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 12:58:55,557 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 12:59:55,572 - INFO - Checking for upcoming meetings...
+2025-02-01 12:59:55,572 - INFO - Fetching meetings between 2025-02-01 07:29:55.572509+00:00 and 2025-02-01 08:29:55.572509+00:00
+2025-02-01 12:59:56,127 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 12:59:56,128 - INFO - Found 1 upcoming meetings
+2025-02-01 12:59:56,128 - INFO - Meeting: tata
+2025-02-01 12:59:56,129 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 12:59:56,129 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 12:59:56,130 - INFO - Current time (UTC): 2025-02-01 07:29:56.130202+00:00
+2025-02-01 12:59:56,130 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 12:59:56,131 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:00:56,132 - INFO - Checking for upcoming meetings...
+2025-02-01 13:00:56,132 - INFO - Fetching meetings between 2025-02-01 07:30:56.132030+00:00 and 2025-02-01 08:30:56.132030+00:00
+2025-02-01 13:00:56,761 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:00:56,761 - INFO - Found 1 upcoming meetings
+2025-02-01 13:00:56,762 - INFO - Meeting: tata
+2025-02-01 13:00:56,762 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:00:56,762 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:00:56,763 - INFO - Current time (UTC): 2025-02-01 07:30:56.763709+00:00
+2025-02-01 13:00:56,763 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:00:56,763 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:01:56,771 - INFO - Checking for upcoming meetings...
+2025-02-01 13:01:56,771 - INFO - Fetching meetings between 2025-02-01 07:31:56.771694+00:00 and 2025-02-01 08:31:56.771694+00:00
+2025-02-01 13:01:57,296 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:01:57,297 - INFO - Found 1 upcoming meetings
+2025-02-01 13:01:57,297 - INFO - Meeting: tata
+2025-02-01 13:01:57,297 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:01:57,298 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:01:57,298 - INFO - Current time (UTC): 2025-02-01 07:31:57.298037+00:00
+2025-02-01 13:01:57,298 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:01:57,299 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:02:56,202 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:03:00,293 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000164B3185D20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/56f25fa9c01aca26fc33a79bdab01964/execute/sync
+2025-02-01 13:03:00,353 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000164B32F94E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/56f25fa9c01aca26fc33a79bdab01964/execute/sync
+2025-02-01 13:03:04,400 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000164B32F9750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/56f25fa9c01aca26fc33a79bdab01964/execute/sync
+2025-02-01 13:03:04,448 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000164B32F9960>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/56f25fa9c01aca26fc33a79bdab01964/execute/sync
+2025-02-01 13:03:08,547 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-02-01 13:03:08,548 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000164B32F9D80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/56f25fa9c01aca26fc33a79bdab01964/execute/sync
+2025-02-01 13:03:12,668 - ERROR - Error setting up caption capture: HTTPConnectionPool(host='localhost', port=57412): Max retries exceeded with url: /session/56f25fa9c01aca26fc33a79bdab01964/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016497B1A4D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-01 13:07:39,543 - INFO - Starting Meet Notes Manager...
+2025-02-01 13:07:39,544 - INFO - Initializing MeetingManager...
+2025-02-01 13:07:39,571 - INFO - Loaded existing credentials from token file
+2025-02-01 13:07:39,574 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 13:07:39,576 - INFO - Successfully initialized Calendar service
+2025-02-01 13:07:39,576 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 13:07:39,576 - INFO - Setting up Chrome browser...
+2025-02-01 13:07:39,577 - INFO - Initializing undetected-chromedriver...
+2025-02-01 13:07:40,466 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 13:11:42,061 - INFO - Verifying Google login status...
+2025-02-01 13:11:47,705 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 13:11:47,713 - INFO - Google cookies found in profile
+2025-02-01 13:11:47,716 - INFO - Checking for upcoming meetings...
+2025-02-01 13:11:47,717 - INFO - Fetching meetings between 2025-02-01 07:41:47.717807+00:00 and 2025-02-01 08:41:47.717807+00:00
+2025-02-01 13:11:48,439 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:11:48,440 - INFO - Found 1 upcoming meetings
+2025-02-01 13:11:48,441 - INFO - Meeting: tata
+2025-02-01 13:11:48,441 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:11:48,442 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:11:48,442 - INFO - Current time (UTC): 2025-02-01 07:41:48.442829+00:00
+2025-02-01 13:11:48,443 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:11:48,443 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:11:48,444 - INFO - Time to join meeting: tata
+2025-02-01 13:11:48,445 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:12:04,421 - INFO - Waiting for pre-meeting screen...
+2025-02-01 13:12:07,516 - INFO - Found join button, attempting to click...
+2025-02-01 13:12:07,823 - INFO - Clicked join button, waiting for completion...
+2025-02-01 13:12:07,835 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 13:12:07,836 - INFO - Successfully joined meeting: tata
+2025-02-01 13:12:07,841 - INFO - Started recording thread
+2025-02-01 13:12:08,894 - INFO - Enabled captions in Meet
+2025-02-01 13:12:11,964 - WARNING - Could not find Chrome audio output, using default
+2025-02-01 13:12:11,971 - ERROR - Error in audio recording: '_Speaker' object has no attribute 'recorder'
+2025-02-01 13:12:51,686 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:12:55,820 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277EA77D5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c282d68cf637237467e1a2adc1e3f4f5/execute/sync
+2025-02-01 13:12:59,941 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277EBA1D720>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c282d68cf637237467e1a2adc1e3f4f5/execute/sync
+2025-02-01 13:13:04,032 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277EBA1DC60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c282d68cf637237467e1a2adc1e3f4f5/execute/sync
+2025-02-01 13:13:08,154 - ERROR - Error leaving meeting: HTTPConnectionPool(host='localhost', port=58344): Max retries exceeded with url: /session/c282d68cf637237467e1a2adc1e3f4f5/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277EBA1EDA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-01 13:13:53,502 - INFO - Starting Meet Notes Manager...
+2025-02-01 13:13:53,502 - INFO - Initializing MeetingManager...
+2025-02-01 13:13:53,532 - INFO - Loaded existing credentials from token file
+2025-02-01 13:13:53,536 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 13:13:53,538 - INFO - Successfully initialized Calendar service
+2025-02-01 13:13:53,538 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 13:13:53,538 - INFO - Setting up Chrome browser...
+2025-02-01 13:13:53,539 - INFO - Initializing undetected-chromedriver...
+2025-02-01 13:13:54,361 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 13:13:56,479 - INFO - Verifying Google login status...
+2025-02-01 13:14:01,397 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 13:14:01,406 - INFO - Google cookies found in profile
+2025-02-01 13:14:01,408 - INFO - Checking for upcoming meetings...
+2025-02-01 13:14:01,409 - INFO - Fetching meetings between 2025-02-01 07:44:01.409989+00:00 and 2025-02-01 08:44:01.409989+00:00
+2025-02-01 13:14:02,036 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:14:02,037 - INFO - Found 1 upcoming meetings
+2025-02-01 13:14:02,037 - INFO - Meeting: tata
+2025-02-01 13:14:02,037 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:14:02,037 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:14:02,037 - INFO - Current time (UTC): 2025-02-01 07:44:02.037740+00:00
+2025-02-01 13:14:02,037 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:14:02,038 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:14:02,038 - INFO - Time to join meeting: tata
+2025-02-01 13:14:02,038 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:14:12,946 - INFO - Waiting for pre-meeting screen...
+2025-02-01 13:14:16,001 - INFO - Found join button, attempting to click...
+2025-02-01 13:14:16,107 - INFO - Clicked join button, waiting for completion...
+2025-02-01 13:14:16,128 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 13:14:16,128 - INFO - Successfully joined meeting: tata
+2025-02-01 13:14:16,129 - INFO - Started recording thread
+2025-02-01 13:14:16,890 - INFO - Enabled captions in Meet
+2025-02-01 13:14:19,035 - ERROR - Error in audio recording: [Errno -9999] Unanticipated host error
+2025-02-01 13:15:16,138 - INFO - Checking for upcoming meetings...
+2025-02-01 13:15:16,139 - INFO - Fetching meetings between 2025-02-01 07:45:16.139804+00:00 and 2025-02-01 08:45:16.139804+00:00
+2025-02-01 13:15:16,712 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:15:16,713 - INFO - Found 1 upcoming meetings
+2025-02-01 13:15:16,713 - INFO - Meeting: tata
+2025-02-01 13:15:16,714 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:15:16,714 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:15:16,714 - INFO - Current time (UTC): 2025-02-01 07:45:16.714415+00:00
+2025-02-01 13:15:16,714 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:15:16,714 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:16:16,728 - INFO - Checking for upcoming meetings...
+2025-02-01 13:16:16,728 - INFO - Fetching meetings between 2025-02-01 07:46:16.728478+00:00 and 2025-02-01 08:46:16.728478+00:00
+2025-02-01 13:16:17,299 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:16:17,300 - INFO - Found 1 upcoming meetings
+2025-02-01 13:16:17,301 - INFO - Meeting: tata
+2025-02-01 13:16:17,301 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:16:17,301 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:16:17,301 - INFO - Current time (UTC): 2025-02-01 07:46:17.301526+00:00
+2025-02-01 13:16:17,301 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:16:17,301 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:17:17,311 - INFO - Checking for upcoming meetings...
+2025-02-01 13:17:17,312 - INFO - Fetching meetings between 2025-02-01 07:47:17.312346+00:00 and 2025-02-01 08:47:17.312346+00:00
+2025-02-01 13:17:17,967 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:17:17,967 - INFO - Found 1 upcoming meetings
+2025-02-01 13:17:17,968 - INFO - Meeting: tata
+2025-02-01 13:17:17,968 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:17:17,969 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:17:17,969 - INFO - Current time (UTC): 2025-02-01 07:47:17.969190+00:00
+2025-02-01 13:17:17,970 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:17:17,970 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:18:17,982 - INFO - Checking for upcoming meetings...
+2025-02-01 13:18:17,982 - INFO - Fetching meetings between 2025-02-01 07:48:17.982734+00:00 and 2025-02-01 08:48:17.982734+00:00
+2025-02-01 13:18:18,584 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:18:18,585 - INFO - Found 1 upcoming meetings
+2025-02-01 13:18:18,585 - INFO - Meeting: tata
+2025-02-01 13:18:18,585 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:18:18,585 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:18:18,586 - INFO - Current time (UTC): 2025-02-01 07:48:18.586542+00:00
+2025-02-01 13:18:18,586 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:18:18,586 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:19:18,595 - INFO - Checking for upcoming meetings...
+2025-02-01 13:19:18,595 - INFO - Fetching meetings between 2025-02-01 07:49:18.595020+00:00 and 2025-02-01 08:49:18.595020+00:00
+2025-02-01 13:19:19,194 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:19:19,195 - INFO - Found 1 upcoming meetings
+2025-02-01 13:19:19,195 - INFO - Meeting: tata
+2025-02-01 13:19:19,196 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:19:19,196 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:19:19,196 - INFO - Current time (UTC): 2025-02-01 07:49:19.196256+00:00
+2025-02-01 13:19:19,196 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:19:19,196 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:20:19,207 - INFO - Checking for upcoming meetings...
+2025-02-01 13:20:19,207 - INFO - Fetching meetings between 2025-02-01 07:50:19.207035+00:00 and 2025-02-01 08:50:19.207035+00:00
+2025-02-01 13:20:19,739 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:20:19,740 - INFO - Found 1 upcoming meetings
+2025-02-01 13:20:19,740 - INFO - Meeting: tata
+2025-02-01 13:20:19,740 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:20:19,741 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:20:19,741 - INFO - Current time (UTC): 2025-02-01 07:50:19.741750+00:00
+2025-02-01 13:20:19,741 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:20:19,741 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:20:55,877 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:20:55,893 - ERROR - Error leaving meeting: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-01 13:21:25,623 - INFO - Starting Meet Notes Manager...
+2025-02-01 13:21:25,624 - INFO - Initializing MeetingManager...
+2025-02-01 13:21:25,650 - INFO - Loaded existing credentials from token file
+2025-02-01 13:21:25,653 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 13:21:25,656 - INFO - Successfully initialized Calendar service
+2025-02-01 13:21:25,656 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 13:21:25,657 - INFO - Setting up Chrome browser...
+2025-02-01 13:21:25,657 - INFO - Initializing undetected-chromedriver...
+2025-02-01 13:21:27,797 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 13:21:30,104 - INFO - Verifying Google login status...
+2025-02-01 13:21:35,685 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 13:21:35,691 - INFO - Google cookies found in profile
+2025-02-01 13:21:35,692 - INFO - Checking for upcoming meetings...
+2025-02-01 13:21:35,692 - INFO - Fetching meetings between 2025-02-01 07:51:35.692474+00:00 and 2025-02-01 08:51:35.692474+00:00
+2025-02-01 13:21:36,436 - INFO - Found meeting: tata at 2025-02-01 12:56:00+05:30
+2025-02-01 13:21:36,437 - INFO - Found 1 upcoming meetings
+2025-02-01 13:21:36,438 - INFO - Meeting: tata
+2025-02-01 13:21:36,438 - INFO - Start time: 2025-02-01T12:56:00+05:30
+2025-02-01 13:21:36,439 - INFO - Meet link: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:21:36,440 - INFO - Current time (UTC): 2025-02-01 07:51:36.440419+00:00
+2025-02-01 13:21:36,440 - INFO - Meeting start time (UTC): 2025-02-01 12:56:00+05:30
+2025-02-01 13:21:36,441 - INFO - Meeting end time (UTC): 2025-02-01 13:56:00+05:30
+2025-02-01 13:21:36,441 - INFO - Time to join meeting: tata
+2025-02-01 13:21:36,441 - INFO - Attempting to join meeting: https://meet.google.com/vrr-ancu-dpb
+2025-02-01 13:21:47,782 - INFO - Waiting for pre-meeting screen...
+2025-02-01 13:22:01,097 - ERROR - Error during join process: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006974A3+25091]
+	(No symbol) [0x0061DC04]
+	(No symbol) [0x004FB373]
+	(No symbol) [0x0053F4DC]
+	(No symbol) [0x0053F65B]
+	(No symbol) [0x0057D8E2]
+	(No symbol) [0x00561F54]
+	(No symbol) [0x0057B49E]
+	(No symbol) [0x00561CA6]
+	(No symbol) [0x005331D5]
+	(No symbol) [0x0053435D]
+	GetHandleVerifier [0x009907C3+3142947]
+	GetHandleVerifier [0x009A1A2B+3213195]
+	GetHandleVerifier [0x0099C412+3191154]
+	GetHandleVerifier [0x00738720+685184]
+	(No symbol) [0x00626E1D]
+	(No symbol) [0x00623E18]
+	(No symbol) [0x00623FB6]
+	(No symbol) [0x006166F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 13:22:01,098 - ERROR - Failed to join meeting: tata
+2025-02-01 13:22:04,199 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:22:47,082 - INFO - Starting Meet Notes Manager...
+2025-02-01 13:22:47,083 - INFO - Initializing MeetingManager...
+2025-02-01 13:22:47,115 - INFO - Loaded existing credentials from token file
+2025-02-01 13:22:47,117 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 13:22:47,119 - INFO - Successfully initialized Calendar service
+2025-02-01 13:22:47,119 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 13:22:47,120 - INFO - Setting up Chrome browser...
+2025-02-01 13:22:47,120 - INFO - Initializing undetected-chromedriver...
+2025-02-01 13:22:48,008 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 13:22:51,332 - INFO - Verifying Google login status...
+2025-02-01 13:22:56,541 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 13:22:56,605 - INFO - Google cookies found in profile
+2025-02-01 13:22:56,607 - INFO - Checking for upcoming meetings...
+2025-02-01 13:22:56,607 - INFO - Fetching meetings between 2025-02-01 07:52:56.607869+00:00 and 2025-02-01 08:52:56.607869+00:00
+2025-02-01 13:22:57,260 - ERROR - Error fetching meetings: 'summary'
+2025-02-01 13:22:57,260 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\gowth\Downloads\Meet_Notes\calendar_service.py", line 79, in get_upcoming_meetings
+    'summary': event['summary'],
+KeyError: 'summary'
+
+2025-02-01 13:22:57,261 - INFO - No upcoming meetings found
+2025-02-01 13:23:57,272 - INFO - Checking for upcoming meetings...
+2025-02-01 13:23:57,273 - INFO - Fetching meetings between 2025-02-01 07:53:57.273481+00:00 and 2025-02-01 08:53:57.273481+00:00
+2025-02-01 13:23:57,945 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:23:57,946 - INFO - Found 1 upcoming meetings
+2025-02-01 13:23:57,946 - INFO - Meeting: date
+2025-02-01 13:23:57,946 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:23:57,946 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:23:57,948 - INFO - Current time (UTC): 2025-02-01 07:53:57.948408+00:00
+2025-02-01 13:23:57,948 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:23:57,948 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:23:57,948 - INFO - Time to join meeting: date
+2025-02-01 13:23:57,949 - INFO - Attempting to join meeting: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:24:14,000 - INFO - Waiting for pre-meeting screen...
+2025-02-01 13:24:17,118 - INFO - Found join button, attempting to click...
+2025-02-01 13:24:17,329 - INFO - Clicked join button, waiting for completion...
+2025-02-01 13:24:17,435 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 13:24:17,435 - INFO - Successfully joined meeting: date
+2025-02-01 13:24:17,435 - INFO - Started recording thread
+2025-02-01 13:24:18,146 - INFO - Enabled captions in Meet
+2025-02-01 13:24:20,201 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-02-01 13:24:20,201 - ERROR - Error in screen recording: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[role="main"]"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00D374A3+25091]
+	(No symbol) [0x00CBDC04]
+	(No symbol) [0x00B9B373]
+	(No symbol) [0x00BDF4DC]
+	(No symbol) [0x00BDF65B]
+	(No symbol) [0x00C1D8E2]
+	(No symbol) [0x00C01F54]
+	(No symbol) [0x00C1B49E]
+	(No symbol) [0x00C01CA6]
+	(No symbol) [0x00BD31D5]
+	(No symbol) [0x00BD435D]
+	GetHandleVerifier [0x010307C3+3142947]
+	GetHandleVerifier [0x01041A2B+3213195]
+	GetHandleVerifier [0x0103C412+3191154]
+	GetHandleVerifier [0x00DD8720+685184]
+	(No symbol) [0x00CC6E1D]
+	(No symbol) [0x00CC3E18]
+	(No symbol) [0x00CC3FB6]
+	(No symbol) [0x00CB66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 13:24:20,246 - ERROR - Error in audio recording: [Errno -9999] Unanticipated host error
+2025-02-01 13:25:17,451 - INFO - Checking for upcoming meetings...
+2025-02-01 13:25:17,452 - INFO - Fetching meetings between 2025-02-01 07:55:17.452901+00:00 and 2025-02-01 08:55:17.452901+00:00
+2025-02-01 13:25:18,063 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:25:18,063 - INFO - Found 1 upcoming meetings
+2025-02-01 13:25:18,064 - INFO - Meeting: date
+2025-02-01 13:25:18,064 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:25:18,064 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:25:18,066 - INFO - Current time (UTC): 2025-02-01 07:55:18.066752+00:00
+2025-02-01 13:25:18,066 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:25:18,066 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:26:07,407 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:26:07,412 - ERROR - Error leaving meeting: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-01 13:30:31,605 - INFO - Starting Meet Notes Manager...
+2025-02-01 13:30:31,606 - INFO - Initializing MeetingManager...
+2025-02-01 13:30:31,631 - INFO - Loaded existing credentials from token file
+2025-02-01 13:30:31,632 - INFO - Refreshing expired credentials
+2025-02-01 13:30:31,984 - INFO - Saved new credentials to token file
+2025-02-01 13:30:31,991 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 13:30:31,994 - INFO - Successfully initialized Calendar service
+2025-02-01 13:30:31,995 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 13:30:31,995 - INFO - Setting up Chrome browser...
+2025-02-01 13:30:31,996 - INFO - Initializing undetected-chromedriver...
+2025-02-01 13:30:33,680 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 13:30:39,030 - INFO - Verifying Google login status...
+2025-02-01 13:30:47,312 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 13:30:47,324 - INFO - Google cookies found in profile
+2025-02-01 13:30:47,326 - INFO - Checking for upcoming meetings...
+2025-02-01 13:30:47,326 - INFO - Fetching meetings between 2025-02-01 08:00:47.326041+00:00 and 2025-02-01 09:00:47.326041+00:00
+2025-02-01 13:30:48,210 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:30:48,210 - INFO - Found 1 upcoming meetings
+2025-02-01 13:30:48,211 - INFO - Meeting: date
+2025-02-01 13:30:48,211 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:30:48,211 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:30:48,211 - INFO - Current time (UTC): 2025-02-01 08:00:48.211685+00:00
+2025-02-01 13:30:48,212 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:30:48,212 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:30:48,212 - INFO - Time to join meeting: date
+2025-02-01 13:30:48,212 - INFO - Attempting to join meeting: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:30:59,686 - INFO - Waiting for pre-meeting screen...
+2025-02-01 13:31:02,759 - INFO - Found join button, attempting to click...
+2025-02-01 13:31:02,947 - INFO - Clicked join button, waiting for completion...
+2025-02-01 13:31:02,969 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 13:31:02,970 - INFO - Successfully joined meeting: date
+2025-02-01 13:31:02,976 - INFO - Started recording thread
+2025-02-01 13:31:03,686 - INFO - Enabled captions in Meet
+2025-02-01 13:31:05,786 - INFO - Enabled captions in Meet
+2025-02-01 13:32:02,991 - INFO - Checking for upcoming meetings...
+2025-02-01 13:32:02,992 - INFO - Fetching meetings between 2025-02-01 08:02:02.992855+00:00 and 2025-02-01 09:02:02.992855+00:00
+2025-02-01 13:32:03,639 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:32:03,641 - INFO - Found 1 upcoming meetings
+2025-02-01 13:32:03,641 - INFO - Meeting: date
+2025-02-01 13:32:03,642 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:32:03,643 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:32:03,643 - INFO - Current time (UTC): 2025-02-01 08:02:03.643903+00:00
+2025-02-01 13:32:03,646 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:32:03,647 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:32:44,846 - INFO - Meeting has ended, stopping recording
+2025-02-01 13:33:03,655 - INFO - Checking for upcoming meetings...
+2025-02-01 13:33:03,656 - INFO - Fetching meetings between 2025-02-01 08:03:03.656699+00:00 and 2025-02-01 09:03:03.656699+00:00
+2025-02-01 13:33:04,494 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:33:04,495 - INFO - Found 1 upcoming meetings
+2025-02-01 13:33:04,495 - INFO - Meeting: date
+2025-02-01 13:33:04,495 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:33:04,495 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:33:04,495 - INFO - Current time (UTC): 2025-02-01 08:03:04.495643+00:00
+2025-02-01 13:33:04,495 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:33:04,496 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:34:04,498 - INFO - Checking for upcoming meetings...
+2025-02-01 13:34:04,500 - INFO - Fetching meetings between 2025-02-01 08:04:04.500192+00:00 and 2025-02-01 09:04:04.500192+00:00
+2025-02-01 13:34:05,166 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:34:05,170 - INFO - Found 1 upcoming meetings
+2025-02-01 13:34:05,171 - INFO - Meeting: date
+2025-02-01 13:34:05,172 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:34:05,172 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:34:05,173 - INFO - Current time (UTC): 2025-02-01 08:04:05.173474+00:00
+2025-02-01 13:34:05,173 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:34:05,174 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:35:05,177 - INFO - Checking for upcoming meetings...
+2025-02-01 13:35:05,178 - INFO - Fetching meetings between 2025-02-01 08:05:05.178320+00:00 and 2025-02-01 09:05:05.178320+00:00
+2025-02-01 13:35:05,809 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:35:05,809 - INFO - Found 1 upcoming meetings
+2025-02-01 13:35:05,809 - INFO - Meeting: date
+2025-02-01 13:35:05,810 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:35:05,810 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:35:05,810 - INFO - Current time (UTC): 2025-02-01 08:05:05.810305+00:00
+2025-02-01 13:35:05,810 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:35:05,811 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:36:05,819 - INFO - Checking for upcoming meetings...
+2025-02-01 13:36:05,819 - INFO - Fetching meetings between 2025-02-01 08:06:05.819845+00:00 and 2025-02-01 09:06:05.819845+00:00
+2025-02-01 13:36:06,449 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:36:06,450 - INFO - Found 1 upcoming meetings
+2025-02-01 13:36:06,450 - INFO - Meeting: date
+2025-02-01 13:36:06,451 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:36:06,451 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:36:06,452 - INFO - Current time (UTC): 2025-02-01 08:06:06.452803+00:00
+2025-02-01 13:36:06,452 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:36:06,453 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:37:06,465 - INFO - Checking for upcoming meetings...
+2025-02-01 13:37:06,467 - INFO - Fetching meetings between 2025-02-01 08:07:06.467966+00:00 and 2025-02-01 09:07:06.467966+00:00
+2025-02-01 13:37:07,162 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:37:07,163 - INFO - Found 1 upcoming meetings
+2025-02-01 13:37:07,163 - INFO - Meeting: date
+2025-02-01 13:37:07,163 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:37:07,164 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:37:07,164 - INFO - Current time (UTC): 2025-02-01 08:07:07.164682+00:00
+2025-02-01 13:37:07,164 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:37:07,165 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:38:07,168 - INFO - Checking for upcoming meetings...
+2025-02-01 13:38:07,169 - INFO - Fetching meetings between 2025-02-01 08:08:07.169896+00:00 and 2025-02-01 09:08:07.169896+00:00
+2025-02-01 13:38:07,813 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:38:07,814 - INFO - Found 1 upcoming meetings
+2025-02-01 13:38:07,814 - INFO - Meeting: date
+2025-02-01 13:38:07,815 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:38:07,815 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:38:07,815 - INFO - Current time (UTC): 2025-02-01 08:08:07.815613+00:00
+2025-02-01 13:38:07,815 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:38:07,815 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:39:07,831 - INFO - Checking for upcoming meetings...
+2025-02-01 13:39:07,832 - INFO - Fetching meetings between 2025-02-01 08:09:07.831463+00:00 and 2025-02-01 09:09:07.831463+00:00
+2025-02-01 13:39:08,462 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:39:08,463 - INFO - Found 1 upcoming meetings
+2025-02-01 13:39:08,464 - INFO - Meeting: date
+2025-02-01 13:39:08,464 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:39:08,465 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:39:08,465 - INFO - Current time (UTC): 2025-02-01 08:09:08.465495+00:00
+2025-02-01 13:39:08,465 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:39:08,465 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:40:08,469 - INFO - Checking for upcoming meetings...
+2025-02-01 13:40:08,469 - INFO - Fetching meetings between 2025-02-01 08:10:08.469563+00:00 and 2025-02-01 09:10:08.469563+00:00
+2025-02-01 13:40:09,099 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:40:09,099 - INFO - Found 1 upcoming meetings
+2025-02-01 13:40:09,099 - INFO - Meeting: date
+2025-02-01 13:40:09,099 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:40:09,100 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:40:09,100 - INFO - Current time (UTC): 2025-02-01 08:10:09.100556+00:00
+2025-02-01 13:40:09,100 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:40:09,100 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:40:43,103 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:40:43,105 - ERROR - Error leaving meeting: 'NoneType' object has no attribute 'quit'
+2025-02-01 13:40:53,736 - INFO - Starting Meet Notes Manager...
+2025-02-01 13:40:53,737 - INFO - Initializing MeetingManager...
+2025-02-01 13:40:53,764 - INFO - Loaded existing credentials from token file
+2025-02-01 13:40:53,767 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 13:40:53,770 - INFO - Successfully initialized Calendar service
+2025-02-01 13:40:53,770 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 13:40:53,770 - INFO - Setting up Chrome browser...
+2025-02-01 13:40:53,771 - INFO - Initializing undetected-chromedriver...
+2025-02-01 13:40:54,581 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 13:41:05,280 - INFO - Verifying Google login status...
+2025-02-01 13:41:12,667 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 13:41:12,679 - INFO - Google cookies found in profile
+2025-02-01 13:41:12,682 - INFO - Checking for upcoming meetings...
+2025-02-01 13:41:12,683 - INFO - Fetching meetings between 2025-02-01 08:11:12.683073+00:00 and 2025-02-01 09:11:12.683073+00:00
+2025-02-01 13:41:13,532 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:41:13,532 - INFO - Found 1 upcoming meetings
+2025-02-01 13:41:13,533 - INFO - Meeting: date
+2025-02-01 13:41:13,533 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:41:13,533 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:41:13,534 - INFO - Current time (UTC): 2025-02-01 08:11:13.534037+00:00
+2025-02-01 13:41:13,534 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:41:13,534 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:41:13,534 - INFO - Time to join meeting: date
+2025-02-01 13:41:13,534 - INFO - Attempting to join meeting: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:41:24,588 - INFO - Waiting for pre-meeting screen...
+2025-02-01 13:41:27,630 - INFO - Found join button, attempting to click...
+2025-02-01 13:41:27,693 - INFO - Clicked join button, waiting for completion...
+2025-02-01 13:41:27,696 - INFO - Successfully joined the meeting (confirmed by MutationObserver)
+2025-02-01 13:41:27,696 - INFO - Successfully joined meeting: date
+2025-02-01 13:41:27,697 - INFO - Started recording thread
+2025-02-01 13:41:29,003 - INFO - Enabled captions in Meet
+2025-02-01 13:41:31,085 - INFO - Enabled captions in Meet
+2025-02-01 13:41:31,252 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-02-01 13:41:31,331 - ERROR - Error in audio recording: [Errno -9999] Unanticipated host error
+2025-02-01 13:42:27,709 - INFO - Checking for upcoming meetings...
+2025-02-01 13:42:27,709 - INFO - Fetching meetings between 2025-02-01 08:12:27.709563+00:00 and 2025-02-01 09:12:27.709563+00:00
+2025-02-01 13:42:28,311 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:42:28,311 - INFO - Found 1 upcoming meetings
+2025-02-01 13:42:28,311 - INFO - Meeting: date
+2025-02-01 13:42:28,311 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:42:28,312 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:42:28,312 - INFO - Current time (UTC): 2025-02-01 08:12:28.312873+00:00
+2025-02-01 13:42:28,312 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:42:28,312 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:42:38,156 - INFO - Meeting has ended, stopping recording
+2025-02-01 13:43:28,324 - INFO - Checking for upcoming meetings...
+2025-02-01 13:43:28,325 - INFO - Fetching meetings between 2025-02-01 08:13:28.325466+00:00 and 2025-02-01 09:13:28.325466+00:00
+2025-02-01 13:43:28,981 - INFO - Found meeting: date at 2025-02-01 13:24:00+05:30
+2025-02-01 13:43:28,982 - INFO - Found 1 upcoming meetings
+2025-02-01 13:43:28,982 - INFO - Meeting: date
+2025-02-01 13:43:28,982 - INFO - Start time: 2025-02-01T13:24:00+05:30
+2025-02-01 13:43:28,983 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 13:43:28,983 - INFO - Current time (UTC): 2025-02-01 08:13:28.983421+00:00
+2025-02-01 13:43:28,983 - INFO - Meeting start time (UTC): 2025-02-01 13:24:00+05:30
+2025-02-01 13:43:28,983 - INFO - Meeting end time (UTC): 2025-02-01 14:24:00+05:30
+2025-02-01 13:43:30,797 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 13:43:30,811 - ERROR - Error stopping recording: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-01 14:51:04,942 - INFO - Starting Meet Notes Manager...
+2025-02-01 14:51:04,943 - INFO - Initializing MeetingManager...
+2025-02-01 14:51:04,972 - INFO - Loaded existing credentials from token file
+2025-02-01 14:51:04,972 - INFO - Refreshing expired credentials
+2025-02-01 14:51:05,271 - INFO - Saved new credentials to token file
+2025-02-01 14:51:05,278 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 14:51:05,284 - INFO - Successfully initialized Calendar service
+2025-02-01 14:51:05,285 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 14:51:05,285 - INFO - Setting up Chrome browser...
+2025-02-01 14:51:05,286 - INFO - Initializing undetected-chromedriver...
+2025-02-01 14:51:06,234 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 14:51:33,678 - INFO - Verifying Google login status...
+2025-02-01 14:51:40,365 - INFO - Successfully verified Google login - Calendar access confirmed
+2025-02-01 14:51:40,373 - INFO - Google cookies found in profile
+2025-02-01 14:51:40,374 - INFO - Checking for upcoming meetings...
+2025-02-01 14:51:40,375 - INFO - Fetching meetings between 2025-02-01 09:21:40.375329+00:00 and 2025-02-01 10:21:40.375329+00:00
+2025-02-01 14:51:41,028 - INFO - No upcoming meetings found
+2025-02-01 14:52:41,031 - INFO - Checking for upcoming meetings...
+2025-02-01 14:52:41,033 - INFO - Fetching meetings between 2025-02-01 09:22:41.032279+00:00 and 2025-02-01 10:22:41.032279+00:00
+2025-02-01 14:52:41,569 - INFO - Found meeting: date at 2025-02-01 14:54:00+05:30
+2025-02-01 14:52:41,569 - INFO - Found 1 upcoming meetings
+2025-02-01 14:52:41,570 - INFO - Meeting: date
+2025-02-01 14:52:41,570 - INFO - Start time: 2025-02-01T14:54:00+05:30
+2025-02-01 14:52:41,570 - INFO - Meet link: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 14:52:41,571 - INFO - Current time (UTC): 2025-02-01 09:22:41.571082+00:00
+2025-02-01 14:52:41,571 - INFO - Meeting start time (UTC): 2025-02-01 14:54:00+05:30
+2025-02-01 14:52:41,571 - INFO - Meeting end time (UTC): 2025-02-01 15:54:00+05:30
+2025-02-01 14:52:41,571 - INFO - Time to join meeting: date
+2025-02-01 14:52:41,571 - INFO - Attempting to join meeting: https://meet.google.com/zjx-juvq-qxq
+2025-02-01 14:52:53,314 - INFO - Waiting for pre-meeting screen...
+2025-02-01 14:53:06,471 - ERROR - Error during join process: Message: 
+
+2025-02-01 14:53:06,472 - ERROR - Failed to join meeting: date
+2025-02-01 14:54:06,479 - INFO - Checking for upcoming meetings...
+2025-02-01 14:54:06,480 - INFO - Fetching meetings between 2025-02-01 09:24:06.480178+00:00 and 2025-02-01 10:24:06.480178+00:00
+2025-02-01 14:54:07,043 - INFO - Found meeting: date at 2025-02-01 14:54:00+05:30
+2025-02-01 14:54:07,044 - INFO - Found 1 upcoming meetings
+2025-02-01 14:54:07,044 - INFO - Skipping previously failed meeting: date
+2025-02-01 14:55:07,048 - INFO - Checking for upcoming meetings...
+2025-02-01 14:55:07,049 - INFO - Fetching meetings between 2025-02-01 09:25:07.049606+00:00 and 2025-02-01 10:25:07.049606+00:00
+2025-02-01 14:55:07,619 - INFO - Found meeting: date at 2025-02-01 14:54:00+05:30
+2025-02-01 14:55:07,620 - INFO - Found 1 upcoming meetings
+2025-02-01 14:55:07,620 - INFO - Skipping previously failed meeting: date
+2025-02-01 14:56:07,628 - INFO - Checking for upcoming meetings...
+2025-02-01 14:56:07,628 - INFO - Fetching meetings between 2025-02-01 09:26:07.628185+00:00 and 2025-02-01 10:26:07.628185+00:00
+2025-02-01 14:56:08,206 - INFO - Found meeting: date at 2025-02-01 14:54:00+05:30
+2025-02-01 14:56:08,206 - INFO - Found 1 upcoming meetings
+2025-02-01 14:56:08,206 - INFO - Skipping previously failed meeting: date
+2025-02-01 14:57:08,223 - INFO - Checking for upcoming meetings...
+2025-02-01 14:57:08,224 - INFO - Fetching meetings between 2025-02-01 09:27:08.224032+00:00 and 2025-02-01 10:27:08.224032+00:00
+2025-02-01 14:57:08,853 - INFO - Found meeting: date at 2025-02-01 14:54:00+05:30
+2025-02-01 14:57:08,854 - INFO - Found 1 upcoming meetings
+2025-02-01 14:57:08,854 - INFO - Skipping previously failed meeting: date
+2025-02-01 14:57:53,319 - INFO - 
+Shutting down Meet Notes Manager...
+2025-02-01 15:02:10,552 - INFO - Starting Meet Notes Manager...
+2025-02-01 15:02:10,553 - INFO - Initializing MeetingManager...
+2025-02-01 15:02:10,600 - INFO - Loaded existing credentials from token file
+2025-02-01 15:02:10,603 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 15:02:10,606 - INFO - Successfully initialized Calendar service
+2025-02-01 15:02:10,606 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 15:02:10,606 - INFO - Setting up Chrome browser...
+2025-02-01 15:02:10,607 - INFO - Initializing undetected-chromedriver...
+2025-02-01 15:02:11,493 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 15:03:21,060 - ERROR - Error initializing undetected-chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:61510
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00B574A3+25091]
+	(No symbol) [0x00ADDC04]
+	(No symbol) [0x009BB1E9]
+	(No symbol) [0x009AFD0C]
+	(No symbol) [0x009EF996]
+	(No symbol) [0x009E652F]
+	(No symbol) [0x009E6377]
+	(No symbol) [0x00A2B489]
+	(No symbol) [0x00A2AC4A]
+	(No symbol) [0x00A21CA6]
+	(No symbol) [0x009F31D5]
+	(No symbol) [0x009F435D]
+	GetHandleVerifier [0x00E507C3+3142947]
+	GetHandleVerifier [0x00E61A2B+3213195]
+	GetHandleVerifier [0x00E5C412+3191154]
+	GetHandleVerifier [0x00BF8720+685184]
+	(No symbol) [0x00AE6E1D]
+	(No symbol) [0x00AE3E18]
+	(No symbol) [0x00AE3FB6]
+	(No symbol) [0x00AD66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 15:03:21,063 - ERROR - Failed to initialize browser: Message: session not created: cannot connect to chrome at 127.0.0.1:61510
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00B574A3+25091]
+	(No symbol) [0x00ADDC04]
+	(No symbol) [0x009BB1E9]
+	(No symbol) [0x009AFD0C]
+	(No symbol) [0x009EF996]
+	(No symbol) [0x009E652F]
+	(No symbol) [0x009E6377]
+	(No symbol) [0x00A2B489]
+	(No symbol) [0x00A2AC4A]
+	(No symbol) [0x00A21CA6]
+	(No symbol) [0x009F31D5]
+	(No symbol) [0x009F435D]
+	GetHandleVerifier [0x00E507C3+3142947]
+	GetHandleVerifier [0x00E61A2B+3213195]
+	GetHandleVerifier [0x00E5C412+3191154]
+	GetHandleVerifier [0x00BF8720+685184]
+	(No symbol) [0x00AE6E1D]
+	(No symbol) [0x00AE3E18]
+	(No symbol) [0x00AE3FB6]
+	(No symbol) [0x00AD66F0]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 15:05:03,259 - INFO - Starting Meet Notes Manager...
+2025-02-01 15:05:03,259 - INFO - Initializing MeetingManager...
+2025-02-01 15:05:03,287 - INFO - Loaded existing credentials from token file
+2025-02-01 15:05:03,290 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 15:05:03,292 - INFO - Successfully initialized Calendar service
+2025-02-01 15:05:03,292 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 15:05:03,292 - INFO - Setting up Chrome browser...
+2025-02-01 15:05:03,293 - INFO - Initializing undetected-chromedriver...
+2025-02-01 15:05:03,976 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 15:06:16,725 - WARNING - Attempt 1 failed: Message: unknown error: cannot connect to chrome at 127.0.0.1:61656
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00676EE3+174339]
+	(No symbol) [0x005A0A51]
+	(No symbol) [0x002B6E8A]
+	(No symbol) [0x002AC8A3]
+	(No symbol) [0x002DDE94]
+	(No symbol) [0x002D7B12]
+	(No symbol) [0x002D7927]
+	(No symbol) [0x0030E259]
+	(No symbol) [0x0030DBBA]
+	(No symbol) [0x00306DA6]
+	(No symbol) [0x002E1034]
+	(No symbol) [0x002E1F8D]
+	GetHandleVerifier [0x00714B1C+820540]
+	sqlite3_dbdata_init [0x007D53EE+653550]
+	sqlite3_dbdata_init [0x007D4E09+652041]
+	sqlite3_dbdata_init [0x007C97CC+605388]
+	sqlite3_dbdata_init [0x007D5D9B+656027]
+	(No symbol) [0x005AFE6C]
+	(No symbol) [0x005A83B8]
+	(No symbol) [0x005A84DD]
+	(No symbol) [0x00595818]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 15:06:19,970 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 15:06:20,306 - WARNING - Attempt 2 failed: you cannot reuse the ChromeOptions object
+2025-02-01 15:06:23,230 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 15:06:23,558 - WARNING - Attempt 3 failed: you cannot reuse the ChromeOptions object
+2025-02-01 15:06:23,559 - ERROR - Error initializing undetected-chromedriver: you cannot reuse the ChromeOptions object
+2025-02-01 15:06:23,561 - ERROR - Failed to initialize browser: you cannot reuse the ChromeOptions object
+2025-02-01 15:09:34,999 - INFO - Starting Meet Notes Manager...
+2025-02-01 15:09:34,999 - INFO - Initializing MeetingManager...
+2025-02-01 15:09:35,028 - INFO - Loaded existing credentials from token file
+2025-02-01 15:09:35,032 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 15:09:35,034 - INFO - Successfully initialized Calendar service
+2025-02-01 15:09:35,034 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 15:09:35,034 - INFO - Setting up Chrome browser...
+2025-02-01 15:09:36,979 - INFO - Attempt 1: Initializing undetected-chromedriver...
+2025-02-01 15:09:38,371 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 15:10:50,862 - WARNING - Attempt 1 failed: Message: unknown error: cannot connect to chrome at 127.0.0.1:61891
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x013F6EE3+174339]
+	(No symbol) [0x01320A51]
+	(No symbol) [0x01036E8A]
+	(No symbol) [0x0102C8A3]
+	(No symbol) [0x0105DE94]
+	(No symbol) [0x01057B12]
+	(No symbol) [0x01057927]
+	(No symbol) [0x0108E259]
+	(No symbol) [0x0108DBBA]
+	(No symbol) [0x01086DA6]
+	(No symbol) [0x01061034]
+	(No symbol) [0x01061F8D]
+	GetHandleVerifier [0x01494B1C+820540]
+	sqlite3_dbdata_init [0x015553EE+653550]
+	sqlite3_dbdata_init [0x01554E09+652041]
+	sqlite3_dbdata_init [0x015497CC+605388]
+	sqlite3_dbdata_init [0x01555D9B+656027]
+	(No symbol) [0x0132FE6C]
+	(No symbol) [0x013283B8]
+	(No symbol) [0x013284DD]
+	(No symbol) [0x01315818]
+	BaseThreadInitThunk [0x76775D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-02-01 15:10:54,525 - INFO - Attempt 2: Initializing undetected-chromedriver...
+2025-02-01 15:10:55,612 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:02:46,058 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:02:46,058 - INFO - Initializing MeetingManager...
+2025-02-01 23:02:49,977 - INFO - Loaded existing credentials from token file
+2025-02-01 23:02:49,978 - INFO - Refreshing expired credentials
+2025-02-01 23:02:50,301 - INFO - Saved new credentials to token file
+2025-02-01 23:02:50,307 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:02:50,354 - INFO - Successfully initialized Calendar service
+2025-02-01 23:02:50,354 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:02:50,354 - INFO - Setting up Chrome browser...
+2025-02-01 23:02:52,250 - INFO - Attempt 1: Initializing undetected-chromedriver...
+2025-02-01 23:02:53,660 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:03:36,265 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:03:36,265 - INFO - Initializing MeetingManager...
+2025-02-01 23:03:36,294 - INFO - Loaded existing credentials from token file
+2025-02-01 23:03:36,296 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:03:36,297 - INFO - Successfully initialized Calendar service
+2025-02-01 23:03:36,299 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:03:36,299 - INFO - Setting up Chrome browser...
+2025-02-01 23:03:36,299 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:03:37,168 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:06:23,979 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:06:23,980 - INFO - Initializing MeetingManager...
+2025-02-01 23:06:24,008 - INFO - Loaded existing credentials from token file
+2025-02-01 23:06:24,011 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:06:24,013 - INFO - Successfully initialized Calendar service
+2025-02-01 23:06:24,013 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:06:24,014 - INFO - Setting up Chrome browser...
+2025-02-01 23:06:24,014 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:06:25,403 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:07:57,300 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:07:57,302 - INFO - Initializing MeetingManager...
+2025-02-01 23:07:57,326 - INFO - Loaded existing credentials from token file
+2025-02-01 23:07:57,329 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:07:57,331 - INFO - Successfully initialized Calendar service
+2025-02-01 23:07:57,332 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:07:57,332 - INFO - Setting up Chrome browser...
+2025-02-01 23:07:57,333 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:07:58,380 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:09:10,428 - ERROR - Error initializing undetected-chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:53310
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00C374A3+25091]
+	(No symbol) [0x00BBDC04]
+	(No symbol) [0x00A9B1E9]
+	(No symbol) [0x00A8FD0C]
+	(No symbol) [0x00ACF996]
+	(No symbol) [0x00AC652F]
+	(No symbol) [0x00AC6377]
+	(No symbol) [0x00B0B489]
+	(No symbol) [0x00B0AC4A]
+	(No symbol) [0x00B01CA6]
+	(No symbol) [0x00AD31D5]
+	(No symbol) [0x00AD435D]
+	GetHandleVerifier [0x00F307C3+3142947]
+	GetHandleVerifier [0x00F41A2B+3213195]
+	GetHandleVerifier [0x00F3C412+3191154]
+	GetHandleVerifier [0x00CD8720+685184]
+	(No symbol) [0x00BC6E1D]
+	(No symbol) [0x00BC3E18]
+	(No symbol) [0x00BC3FB6]
+	(No symbol) [0x00BB66F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:09:10,429 - ERROR - Failed to initialize browser: Message: session not created: cannot connect to chrome at 127.0.0.1:53310
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00C374A3+25091]
+	(No symbol) [0x00BBDC04]
+	(No symbol) [0x00A9B1E9]
+	(No symbol) [0x00A8FD0C]
+	(No symbol) [0x00ACF996]
+	(No symbol) [0x00AC652F]
+	(No symbol) [0x00AC6377]
+	(No symbol) [0x00B0B489]
+	(No symbol) [0x00B0AC4A]
+	(No symbol) [0x00B01CA6]
+	(No symbol) [0x00AD31D5]
+	(No symbol) [0x00AD435D]
+	GetHandleVerifier [0x00F307C3+3142947]
+	GetHandleVerifier [0x00F41A2B+3213195]
+	GetHandleVerifier [0x00F3C412+3191154]
+	GetHandleVerifier [0x00CD8720+685184]
+	(No symbol) [0x00BC6E1D]
+	(No symbol) [0x00BC3E18]
+	(No symbol) [0x00BC3FB6]
+	(No symbol) [0x00BB66F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:10:16,832 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:10:16,832 - INFO - Initializing MeetingManager...
+2025-02-01 23:10:16,859 - INFO - Loaded existing credentials from token file
+2025-02-01 23:10:16,862 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:10:16,863 - INFO - Successfully initialized Calendar service
+2025-02-01 23:10:16,863 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:10:16,863 - INFO - Setting up Chrome browser...
+2025-02-01 23:10:16,864 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:10:17,992 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:11:31,494 - ERROR - Error initializing undetected-chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:53664
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x010074A3+25091]
+	(No symbol) [0x00F8DC04]
+	(No symbol) [0x00E6B1E9]
+	(No symbol) [0x00E5FD0C]
+	(No symbol) [0x00E9F996]
+	(No symbol) [0x00E9652F]
+	(No symbol) [0x00E96377]
+	(No symbol) [0x00EDB489]
+	(No symbol) [0x00EDAC4A]
+	(No symbol) [0x00ED1CA6]
+	(No symbol) [0x00EA31D5]
+	(No symbol) [0x00EA435D]
+	GetHandleVerifier [0x013007C3+3142947]
+	GetHandleVerifier [0x01311A2B+3213195]
+	GetHandleVerifier [0x0130C412+3191154]
+	GetHandleVerifier [0x010A8720+685184]
+	(No symbol) [0x00F96E1D]
+	(No symbol) [0x00F93E18]
+	(No symbol) [0x00F93FB6]
+	(No symbol) [0x00F866F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:11:31,494 - ERROR - Failed to initialize browser: Message: session not created: cannot connect to chrome at 127.0.0.1:53664
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x010074A3+25091]
+	(No symbol) [0x00F8DC04]
+	(No symbol) [0x00E6B1E9]
+	(No symbol) [0x00E5FD0C]
+	(No symbol) [0x00E9F996]
+	(No symbol) [0x00E9652F]
+	(No symbol) [0x00E96377]
+	(No symbol) [0x00EDB489]
+	(No symbol) [0x00EDAC4A]
+	(No symbol) [0x00ED1CA6]
+	(No symbol) [0x00EA31D5]
+	(No symbol) [0x00EA435D]
+	GetHandleVerifier [0x013007C3+3142947]
+	GetHandleVerifier [0x01311A2B+3213195]
+	GetHandleVerifier [0x0130C412+3191154]
+	GetHandleVerifier [0x010A8720+685184]
+	(No symbol) [0x00F96E1D]
+	(No symbol) [0x00F93E18]
+	(No symbol) [0x00F93FB6]
+	(No symbol) [0x00F866F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:12:06,122 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:12:06,123 - INFO - Initializing MeetingManager...
+2025-02-01 23:12:06,150 - INFO - Loaded existing credentials from token file
+2025-02-01 23:12:06,152 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:12:06,154 - INFO - Successfully initialized Calendar service
+2025-02-01 23:12:06,155 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:12:06,155 - INFO - Setting up Chrome browser...
+2025-02-01 23:12:07,887 - INFO - Attempt 1: Initializing undetected-chromedriver...
+2025-02-01 23:12:09,207 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:13:29,466 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:13:29,466 - INFO - Initializing MeetingManager...
+2025-02-01 23:13:29,494 - INFO - Loaded existing credentials from token file
+2025-02-01 23:13:29,498 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:13:29,500 - INFO - Successfully initialized Calendar service
+2025-02-01 23:13:29,500 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:13:29,500 - INFO - Setting up Chrome browser...
+2025-02-01 23:13:29,500 - WARNING - Attempt 1 failed: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:13:32,508 - WARNING - Attempt 2 failed: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:13:38,515 - WARNING - Attempt 3 failed: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:13:38,516 - ERROR - Failed to initialize browser: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:14:15,216 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:14:15,216 - INFO - Initializing MeetingManager...
+2025-02-01 23:14:15,242 - INFO - Loaded existing credentials from token file
+2025-02-01 23:14:15,245 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:14:15,247 - INFO - Successfully initialized Calendar service
+2025-02-01 23:14:15,249 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:14:15,249 - INFO - Setting up Chrome browser...
+2025-02-01 23:14:15,581 - INFO - Killed existing Chrome processes
+2025-02-01 23:14:17,591 - INFO - Attempt 1: Initializing undetected-chromedriver...
+2025-02-01 23:14:18,949 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:15:30,889 - WARNING - Attempt 1 failed: Message: unknown error: cannot connect to chrome at 127.0.0.1:54193
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00E26EE3+174339]
+	(No symbol) [0x00D50A51]
+	(No symbol) [0x00A66E8A]
+	(No symbol) [0x00A5C8A3]
+	(No symbol) [0x00A8DE94]
+	(No symbol) [0x00A87B12]
+	(No symbol) [0x00A87927]
+	(No symbol) [0x00ABE259]
+	(No symbol) [0x00ABDBBA]
+	(No symbol) [0x00AB6DA6]
+	(No symbol) [0x00A91034]
+	(No symbol) [0x00A91F8D]
+	GetHandleVerifier [0x00EC4B1C+820540]
+	sqlite3_dbdata_init [0x00F853EE+653550]
+	sqlite3_dbdata_init [0x00F84E09+652041]
+	sqlite3_dbdata_init [0x00F797CC+605388]
+	sqlite3_dbdata_init [0x00F85D9B+656027]
+	(No symbol) [0x00D5FE6C]
+	(No symbol) [0x00D583B8]
+	(No symbol) [0x00D584DD]
+	(No symbol) [0x00D45818]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:15:41,802 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:15:41,803 - INFO - Initializing MeetingManager...
+2025-02-01 23:15:41,829 - INFO - Loaded existing credentials from token file
+2025-02-01 23:15:41,832 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:15:41,834 - INFO - Successfully initialized Calendar service
+2025-02-01 23:15:41,834 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:15:41,834 - INFO - Setting up Chrome browser...
+2025-02-01 23:15:42,185 - INFO - Killed existing Chrome processes
+2025-02-01 23:15:44,201 - INFO - Attempt 1: Initializing undetected-chromedriver...
+2025-02-01 23:15:45,745 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:17:02,128 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:17:02,129 - INFO - Initializing MeetingManager...
+2025-02-01 23:17:02,160 - INFO - Loaded existing credentials from token file
+2025-02-01 23:17:02,162 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:17:02,163 - INFO - Successfully initialized Calendar service
+2025-02-01 23:17:02,164 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:17:02,164 - INFO - Setting up Chrome browser...
+2025-02-01 23:17:02,164 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:17:03,026 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:18:14,147 - ERROR - Error initializing undetected-chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:54547
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00C574A3+25091]
+	(No symbol) [0x00BDDC04]
+	(No symbol) [0x00ABB1E9]
+	(No symbol) [0x00AAFD0C]
+	(No symbol) [0x00AEF996]
+	(No symbol) [0x00AE652F]
+	(No symbol) [0x00AE6377]
+	(No symbol) [0x00B2B489]
+	(No symbol) [0x00B2AC4A]
+	(No symbol) [0x00B21CA6]
+	(No symbol) [0x00AF31D5]
+	(No symbol) [0x00AF435D]
+	GetHandleVerifier [0x00F507C3+3142947]
+	GetHandleVerifier [0x00F61A2B+3213195]
+	GetHandleVerifier [0x00F5C412+3191154]
+	GetHandleVerifier [0x00CF8720+685184]
+	(No symbol) [0x00BE6E1D]
+	(No symbol) [0x00BE3E18]
+	(No symbol) [0x00BE3FB6]
+	(No symbol) [0x00BD66F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:18:14,149 - ERROR - Failed to initialize browser: Message: session not created: cannot connect to chrome at 127.0.0.1:54547
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00C574A3+25091]
+	(No symbol) [0x00BDDC04]
+	(No symbol) [0x00ABB1E9]
+	(No symbol) [0x00AAFD0C]
+	(No symbol) [0x00AEF996]
+	(No symbol) [0x00AE652F]
+	(No symbol) [0x00AE6377]
+	(No symbol) [0x00B2B489]
+	(No symbol) [0x00B2AC4A]
+	(No symbol) [0x00B21CA6]
+	(No symbol) [0x00AF31D5]
+	(No symbol) [0x00AF435D]
+	GetHandleVerifier [0x00F507C3+3142947]
+	GetHandleVerifier [0x00F61A2B+3213195]
+	GetHandleVerifier [0x00F5C412+3191154]
+	GetHandleVerifier [0x00CF8720+685184]
+	(No symbol) [0x00BE6E1D]
+	(No symbol) [0x00BE3E18]
+	(No symbol) [0x00BE3FB6]
+	(No symbol) [0x00BD66F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:19:40,862 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:19:40,863 - INFO - Initializing MeetingManager...
+2025-02-01 23:19:40,890 - INFO - Loaded existing credentials from token file
+2025-02-01 23:19:40,892 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:19:40,893 - INFO - Successfully initialized Calendar service
+2025-02-01 23:19:40,893 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:19:40,893 - INFO - Setting up Chrome browser...
+2025-02-01 23:19:40,893 - WARNING - Attempt 1 failed: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:19:43,905 - WARNING - Attempt 2 failed: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:19:49,907 - WARNING - Attempt 3 failed: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:19:49,910 - ERROR - Failed to initialize browser: 'MeetingRecorder' object has no attribute 'kill_chrome_processes'
+2025-02-01 23:20:40,763 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:20:40,763 - INFO - Initializing MeetingManager...
+2025-02-01 23:20:40,788 - INFO - Loaded existing credentials from token file
+2025-02-01 23:20:40,791 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:20:40,792 - INFO - Successfully initialized Calendar service
+2025-02-01 23:20:40,793 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:20:40,793 - INFO - Setting up Chrome browser...
+2025-02-01 23:20:40,794 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:20:42,404 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:21:44,885 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:21:44,885 - INFO - Initializing MeetingManager...
+2025-02-01 23:21:44,913 - INFO - Loaded existing credentials from token file
+2025-02-01 23:21:44,916 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:21:44,918 - INFO - Successfully initialized Calendar service
+2025-02-01 23:21:44,920 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:21:44,920 - INFO - Setting up Chrome browser...
+2025-02-01 23:21:44,921 - INFO - Initializing Chrome driver...
+2025-02-01 23:21:44,921 - INFO - ====== WebDriver manager ======
+2025-02-01 23:21:45,412 - INFO - There is no [win32] chromedriver "latest" for browser google-chrome "132.0.6834" in cache
+2025-02-01 23:21:45,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-01 23:21:45,695 - ERROR - Error initializing Chrome driver: There is no such driver by url https://chromedriver.storage.googleapis.com/LATEST_RELEASE_132.0.6834
+2025-02-01 23:21:45,695 - ERROR - Failed to initialize browser: There is no such driver by url https://chromedriver.storage.googleapis.com/LATEST_RELEASE_132.0.6834
+2025-02-01 23:25:39,382 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:25:39,382 - INFO - Initializing MeetingManager...
+2025-02-01 23:25:39,439 - INFO - Loaded existing credentials from token file
+2025-02-01 23:25:39,441 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:25:39,443 - INFO - Successfully initialized Calendar service
+2025-02-01 23:25:39,443 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:25:39,443 - INFO - Setting up Chrome browser...
+2025-02-01 23:25:39,443 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:25:40,297 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:27:18,514 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:27:18,515 - INFO - Initializing MeetingManager...
+2025-02-01 23:27:18,544 - INFO - Loaded existing credentials from token file
+2025-02-01 23:27:18,546 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:27:18,549 - INFO - Successfully initialized Calendar service
+2025-02-01 23:27:18,549 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:27:18,549 - INFO - Setting up Chrome browser...
+2025-02-01 23:27:18,550 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:27:19,757 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:28:33,045 - ERROR - Error initializing undetected-chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:56186
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x008474A3+25091]
+	(No symbol) [0x007CDC04]
+	(No symbol) [0x006AB1E9]
+	(No symbol) [0x0069FD0C]
+	(No symbol) [0x006DF996]
+	(No symbol) [0x006D652F]
+	(No symbol) [0x006D6377]
+	(No symbol) [0x0071B489]
+	(No symbol) [0x0071AC4A]
+	(No symbol) [0x00711CA6]
+	(No symbol) [0x006E31D5]
+	(No symbol) [0x006E435D]
+	GetHandleVerifier [0x00B407C3+3142947]
+	GetHandleVerifier [0x00B51A2B+3213195]
+	GetHandleVerifier [0x00B4C412+3191154]
+	GetHandleVerifier [0x008E8720+685184]
+	(No symbol) [0x007D6E1D]
+	(No symbol) [0x007D3E18]
+	(No symbol) [0x007D3FB6]
+	(No symbol) [0x007C66F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:28:33,046 - ERROR - Failed to initialize browser: Message: session not created: cannot connect to chrome at 127.0.0.1:56186
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x008474A3+25091]
+	(No symbol) [0x007CDC04]
+	(No symbol) [0x006AB1E9]
+	(No symbol) [0x0069FD0C]
+	(No symbol) [0x006DF996]
+	(No symbol) [0x006D652F]
+	(No symbol) [0x006D6377]
+	(No symbol) [0x0071B489]
+	(No symbol) [0x0071AC4A]
+	(No symbol) [0x00711CA6]
+	(No symbol) [0x006E31D5]
+	(No symbol) [0x006E435D]
+	GetHandleVerifier [0x00B407C3+3142947]
+	GetHandleVerifier [0x00B51A2B+3213195]
+	GetHandleVerifier [0x00B4C412+3191154]
+	GetHandleVerifier [0x008E8720+685184]
+	(No symbol) [0x007D6E1D]
+	(No symbol) [0x007D3E18]
+	(No symbol) [0x007D3FB6]
+	(No symbol) [0x007C66F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:33:04,501 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:33:04,501 - INFO - Initializing MeetingManager...
+2025-02-01 23:33:04,547 - INFO - Loaded existing credentials from token file
+2025-02-01 23:33:04,550 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:33:04,553 - INFO - Successfully initialized Calendar service
+2025-02-01 23:33:04,553 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:33:04,553 - INFO - Setting up Chrome browser...
+2025-02-01 23:33:06,585 - INFO - Initializing undetected-chromedriver...
+2025-02-01 23:33:07,659 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:33:22,789 - ERROR - Error initializing undetected-chromedriver: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x004A74A3+25091]
+	(No symbol) [0x0042DC04]
+	(No symbol) [0x0030B373]
+	(No symbol) [0x0032EDB8]
+	(No symbol) [0x003304A0]
+	(No symbol) [0x0032BC43]
+	(No symbol) [0x00379C62]
+	(No symbol) [0x0037968E]
+	(No symbol) [0x0037AD2F]
+	(No symbol) [0x0037AC4A]
+	(No symbol) [0x00371CA6]
+	(No symbol) [0x003431D5]
+	(No symbol) [0x0034435D]
+	GetHandleVerifier [0x007A07C3+3142947]
+	GetHandleVerifier [0x007B1A2B+3213195]
+	GetHandleVerifier [0x007AC412+3191154]
+	GetHandleVerifier [0x00548720+685184]
+	(No symbol) [0x00436E1D]
+	(No symbol) [0x00433E18]
+	(No symbol) [0x00433FB6]
+	(No symbol) [0x004266F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:33:22,789 - ERROR - Failed to initialize browser: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+	GetHandleVerifier [0x004A74A3+25091]
+	(No symbol) [0x0042DC04]
+	(No symbol) [0x0030B373]
+	(No symbol) [0x0032EDB8]
+	(No symbol) [0x003304A0]
+	(No symbol) [0x0032BC43]
+	(No symbol) [0x00379C62]
+	(No symbol) [0x0037968E]
+	(No symbol) [0x0037AD2F]
+	(No symbol) [0x0037AC4A]
+	(No symbol) [0x00371CA6]
+	(No symbol) [0x003431D5]
+	(No symbol) [0x0034435D]
+	GetHandleVerifier [0x007A07C3+3142947]
+	GetHandleVerifier [0x007B1A2B+3213195]
+	GetHandleVerifier [0x007AC412+3191154]
+	GetHandleVerifier [0x00548720+685184]
+	(No symbol) [0x00436E1D]
+	(No symbol) [0x00433E18]
+	(No symbol) [0x00433FB6]
+	(No symbol) [0x004266F0]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:33:48,678 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:33:48,679 - INFO - Initializing MeetingManager...
+2025-02-01 23:33:48,706 - INFO - Loaded existing credentials from token file
+2025-02-01 23:33:48,709 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:33:48,711 - INFO - Successfully initialized Calendar service
+2025-02-01 23:33:48,711 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:33:48,711 - INFO - Setting up Chrome browser...
+2025-02-01 23:33:50,206 - INFO - patching driver executable C:\Users\gowth\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-02-01 23:35:04,837 - ERROR - Error initializing undetected-chromedriver: Message: unknown error: cannot connect to chrome at 127.0.0.1:57376
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00F06EE3+174339]
+	(No symbol) [0x00E30A51]
+	(No symbol) [0x00B46E8A]
+	(No symbol) [0x00B3C8A3]
+	(No symbol) [0x00B6DE94]
+	(No symbol) [0x00B67B12]
+	(No symbol) [0x00B67927]
+	(No symbol) [0x00B9E259]
+	(No symbol) [0x00B9DBBA]
+	(No symbol) [0x00B96DA6]
+	(No symbol) [0x00B71034]
+	(No symbol) [0x00B71F8D]
+	GetHandleVerifier [0x00FA4B1C+820540]
+	sqlite3_dbdata_init [0x010653EE+653550]
+	sqlite3_dbdata_init [0x01064E09+652041]
+	sqlite3_dbdata_init [0x010597CC+605388]
+	sqlite3_dbdata_init [0x01065D9B+656027]
+	(No symbol) [0x00E3FE6C]
+	(No symbol) [0x00E383B8]
+	(No symbol) [0x00E384DD]
+	(No symbol) [0x00E25818]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-01 23:36:08,207 - INFO - Starting Meet Notes Manager...
+2025-02-01 23:36:08,208 - INFO - Initializing MeetingManager...
+2025-02-01 23:36:08,238 - INFO - Loaded existing credentials from token file
+2025-02-01 23:36:08,241 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-01 23:36:08,243 - INFO - Successfully initialized Calendar service
+2025-02-01 23:36:08,244 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-01 23:36:08,244 - INFO - Setting up Chrome browser...
+2025-02-01 23:36:08,929 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-01 23:37:21,981 - ERROR - Error initializing undetected-chromedriver: Message: unknown error: cannot connect to chrome at 127.0.0.1:57971
+from chrome not reachable
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C2A813+48355]
+	(No symbol) [0x00BBC4B1]
+	(No symbol) [0x00AC5220]
+	(No symbol) [0x00ABB355]
+	(No symbol) [0x00AE5C68]
+	(No symbol) [0x00AE06B4]
+	(No symbol) [0x00AE0491]
+	(No symbol) [0x00B10C55]
+	(No symbol) [0x00B1093C]
+	(No symbol) [0x00B0A536]
+	(No symbol) [0x00AE82DC]
+	(No symbol) [0x00AE93DD]
+	GetHandleVerifier [0x00E8AABD+2539405]
+	GetHandleVerifier [0x00ECA78F+2800735]
+	GetHandleVerifier [0x00EC456C+2775612]
+	GetHandleVerifier [0x00CB51E0+616112]
+	(No symbol) [0x00BC5F8C]
+	(No symbol) [0x00BC2328]
+	(No symbol) [0x00BC240B]
+	(No symbol) [0x00BB4FF7]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-02 00:22:01,930 - INFO - Starting Meet Notes Manager...
+2025-02-02 00:22:01,930 - INFO - Initializing MeetingManager...
+2025-02-02 00:22:01,959 - INFO - Loaded existing credentials from token file
+2025-02-02 00:22:01,959 - INFO - Refreshing expired credentials
+2025-02-02 00:22:02,281 - INFO - Saved new credentials to token file
+2025-02-02 00:22:02,285 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-02 00:22:02,288 - INFO - Successfully initialized Calendar service
+2025-02-02 00:22:02,288 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-02 00:22:02,289 - INFO - Setting up Chrome browser...
+2025-02-02 00:22:02,304 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:29:05,432 - INFO - Starting Meet Notes Manager...
+2025-02-03 11:29:05,433 - INFO - Initializing MeetingManager...
+2025-02-03 11:29:09,500 - INFO - Loaded existing credentials from token file
+2025-02-03 11:29:09,500 - INFO - Refreshing expired credentials
+2025-02-03 11:29:09,684 - INFO - Saved new credentials to token file
+2025-02-03 11:29:09,690 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 11:29:09,726 - INFO - Successfully initialized Calendar service
+2025-02-03 11:29:09,726 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 11:29:09,726 - INFO - Setting up Chrome browser...
+2025-02-03 11:29:10,593 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:36:20,426 - INFO - Starting Meet Notes Manager...
+2025-02-03 11:36:20,427 - INFO - Initializing MeetingManager...
+2025-02-03 11:36:20,506 - INFO - Loaded existing credentials from token file
+2025-02-03 11:36:20,514 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 11:36:20,519 - INFO - Successfully initialized Calendar service
+2025-02-03 11:36:20,519 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 11:36:20,519 - INFO - Setting up Chrome browser...
+2025-02-03 11:36:20,539 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:37:49,697 - ERROR - Error initializing undetected-chromedriver: Message: unknown error: cannot connect to chrome at 127.0.0.1:58658
+from chrome not reachable
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0115A813+48355]
+	(No symbol) [0x010EC4B1]
+	(No symbol) [0x00FF5220]
+	(No symbol) [0x00FEB355]
+	(No symbol) [0x01015C68]
+	(No symbol) [0x010106B4]
+	(No symbol) [0x01010491]
+	(No symbol) [0x01040C55]
+	(No symbol) [0x0104093C]
+	(No symbol) [0x0103A536]
+	(No symbol) [0x010182DC]
+	(No symbol) [0x010193DD]
+	GetHandleVerifier [0x013BAABD+2539405]
+	GetHandleVerifier [0x013FA78F+2800735]
+	GetHandleVerifier [0x013F456C+2775612]
+	GetHandleVerifier [0x011E51E0+616112]
+	(No symbol) [0x010F5F8C]
+	(No symbol) [0x010F2328]
+	(No symbol) [0x010F240B]
+	(No symbol) [0x010E4FF7]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-03 11:41:23,445 - INFO - Starting Meet Notes Manager...
+2025-02-03 11:41:23,445 - INFO - Initializing MeetingManager...
+2025-02-03 11:41:23,510 - INFO - Loaded existing credentials from token file
+2025-02-03 11:41:23,515 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 11:41:23,519 - INFO - Successfully initialized Calendar service
+2025-02-03 11:41:23,519 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 11:41:23,520 - INFO - Setting up Chrome browser...
+2025-02-03 11:41:23,541 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:42:46,036 - ERROR - Error initializing undetected-chromedriver: Message: unknown error: cannot connect to chrome at 127.0.0.1:59557
+from chrome not reachable
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0098A813+48355]
+	(No symbol) [0x0091C4B1]
+	(No symbol) [0x00825220]
+	(No symbol) [0x0081B355]
+	(No symbol) [0x00845C68]
+	(No symbol) [0x008406B4]
+	(No symbol) [0x00840491]
+	(No symbol) [0x00870C55]
+	(No symbol) [0x0087093C]
+	(No symbol) [0x0086A536]
+	(No symbol) [0x008482DC]
+	(No symbol) [0x008493DD]
+	GetHandleVerifier [0x00BEAABD+2539405]
+	GetHandleVerifier [0x00C2A78F+2800735]
+	GetHandleVerifier [0x00C2456C+2775612]
+	GetHandleVerifier [0x00A151E0+616112]
+	(No symbol) [0x00925F8C]
+	(No symbol) [0x00922328]
+	(No symbol) [0x0092240B]
+	(No symbol) [0x00914FF7]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
+2025-02-03 11:43:09,718 - INFO - Starting Meet Notes Manager...
+2025-02-03 11:43:09,719 - INFO - Initializing MeetingManager...
+2025-02-03 11:43:09,796 - INFO - Loaded existing credentials from token file
+2025-02-03 11:43:09,801 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 11:43:09,805 - INFO - Successfully initialized Calendar service
+2025-02-03 11:43:09,805 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 11:43:09,806 - INFO - Setting up Chrome browser...
+2025-02-03 11:43:09,831 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:43:46,581 - INFO - Starting Meet Notes Manager...
+2025-02-03 11:43:46,582 - INFO - Initializing MeetingManager...
+2025-02-03 11:43:46,640 - INFO - Loaded existing credentials from token file
+2025-02-03 11:43:46,644 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 11:43:46,647 - INFO - Successfully initialized Calendar service
+2025-02-03 11:43:46,647 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 11:43:46,647 - INFO - Setting up Chrome browser...
+2025-02-03 11:43:46,674 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:43:46,675 - ERROR - Error initializing undetected-chromedriver: [Errno 13] Permission denied: 'C:\\Users\\gowth\\Downloads\\Meet_Notes\\chromedriver.exe'
+2025-02-03 11:44:01,851 - INFO - Starting Meet Notes Manager...
+2025-02-03 11:44:01,851 - INFO - Initializing MeetingManager...
+2025-02-03 11:44:01,925 - INFO - Loaded existing credentials from token file
+2025-02-03 11:44:01,929 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-03 11:44:01,933 - INFO - Successfully initialized Calendar service
+2025-02-03 11:44:01,933 - INFO - Initialized MeetingRecorder with profile path: C:\Users\gowth\Downloads\Meet_Notes\chrome_profile
+2025-02-03 11:44:01,935 - INFO - Setting up Chrome browser...
+2025-02-03 11:44:01,963 - INFO - patching driver executable C:\Users\gowth\Downloads\Meet_Notes\chromedriver.exe
+2025-02-03 11:45:20,595 - ERROR - Error initializing undetected-chromedriver: Message: unknown error: cannot connect to chrome at 127.0.0.1:60052
+from chrome not reachable
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BDA813+48355]
+	(No symbol) [0x00B6C4B1]
+	(No symbol) [0x00A75220]
+	(No symbol) [0x00A6B355]
+	(No symbol) [0x00A95C68]
+	(No symbol) [0x00A906B4]
+	(No symbol) [0x00A90491]
+	(No symbol) [0x00AC0C55]
+	(No symbol) [0x00AC093C]
+	(No symbol) [0x00ABA536]
+	(No symbol) [0x00A982DC]
+	(No symbol) [0x00A993DD]
+	GetHandleVerifier [0x00E3AABD+2539405]
+	GetHandleVerifier [0x00E7A78F+2800735]
+	GetHandleVerifier [0x00E7456C+2775612]
+	GetHandleVerifier [0x00C651E0+616112]
+	(No symbol) [0x00B75F8C]
+	(No symbol) [0x00B72328]
+	(No symbol) [0x00B7240B]
+	(No symbol) [0x00B64FF7]
+	BaseThreadInitThunk [0x75C65D49+25]
+	RtlInitializeExceptionChain [0x774CCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x774CCD71+561]
+
